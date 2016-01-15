@@ -38,27 +38,27 @@ parte de la base de datos geográfica libre más grande del mundo.
 
 <p align="justify">Para iniciarse y seguir profundizando  en el mundo
 de OpenStreetMaps existe una plataforma de aprendizaje  muy detallada que
-sirve de gran ayuda para hacer uso de la cartografía libre:<a href="http://learnosm.org/es">LearnOSM</a>
+sirve de gran ayuda para hacer uso de la cartografía libre: <a href="http://learnosm.org/es"> LearnOSM </a>
 <br>
-Siga la guía para el cartógrafo comunitario elaborada por Fredy Rivera<a href="http://www.buscandodragones.com/">http://www.buscandogragones.com</a>y avanzará de forma natural.</p>
+Siga la guía para el cartógrafo comunitario elaborada por Fredy Rivera<a href="http://www.buscandodragones.com/"> http://www.buscandogragones.com </a> y avanzará de forma natural.</p>
 <br>
-También puede consultar la <a href="http://wiki.openstreetmap.org/wiki/Gu%C3%ADa_para_mapear_en_Colombia">Guía para mapear en Colombia</a></p>
+También puede consultar la <a href="http://wiki.openstreetmap.org/wiki/Gu%C3%ADa_para_mapear_en_Colombia"> Guía para mapear en Colombia</a></p>
 
 <p><b>Iniciese en Open Street Maps
 en tres pasos:</b>
 
 <ol>
-	<li>Experimente con la<a href="http://www.osm.org/">plataforma de OpenStreetMapsg</a>: Observe cada ícono del sitio,los botones de zoom para el mapa, la casilla de búsqueda. Encuentre
+	<li>Experimente con la <a href="http://www.osm.org/"> plataforma de OpenStreetMaps: </a> Observe cada ícono del sitio,los botones de zoom para el mapa, la casilla de búsqueda. Encuentre
 su casa o lugar de trabajo y haga clic sobre las propiedades de los objetos. Aprenda cómo compartir la ubicación de un lugar desde la
 plataforma, ubicando un puntero en el lugar que desee y enviándolo a un amigo/a a través de las opciones disponibles.
 
-<li>Cree una cuenta en la mismaplataforma, su nombre de usuario le servirá para identificarse en la
-comunidad OSM y compartir sus experiencias en la bitácora,<a href="http://wiki.openstreetmap.org/wiki/ES:Upload">cargar trazas GPX</a></u>y mucho más.  Para hacer uso de OSM desde su celular pruebe alguna de las<a href="http://wiki.openstreetmap.org/wiki/Software/Mobile">
-</a></font><a href="http://wiki.openstreetmap.org/wiki/Software/Mobile"><font color="#1155cc"><font size="2" style="font-size: 10pt"><u>aplicaciones que le facilitarán su vida cotidiana, viajes y ejercicios de campo. La más popular y versátil
-para el sistema operativo Android es<a href="https://play.google.com/store/apps/details?id=net.osmand&amp;hl=es&amp;usg=AFQjCNH-T5YsI4wgCo4hHd5xu-80FrLXlw&amp;sig2=osOUAhWJjK8g_nciVhcfgg"><u>OSMAND</u></a></p>
+<li>Cree una cuenta en la misma plataforma, su nombre de usuario le servirá para identificarse en la
+comunidad OSM y compartir sus experiencias en la bitácora, <a href="http://wiki.openstreetmap.org/wiki/ES:Upload"> cargar trazas GPX </a> y mucho más.  Para hacer uso de OSM desde su celular pruebe alguna de las <a href="http://wiki.openstreetmap.org/wiki/Software/Mobile">
+aplicaciones </a> que le facilitarán su vida cotidiana, viajes y ejercicios de campo. La más popular y versátil
+para el sistema operativo Android es <a href="https://play.google.com/store/apps/details?id=net.osmand&amp;hl=es&amp;usg=AFQjCNH-T5YsI4wgCo4hHd5xu-80FrLXlw&amp;sig2=osOUAhWJjK8g_nciVhcfgg"> OSMAND </a></p>
 
-<li>Uso de editores: Para usar OSM tiene<a href="http://wiki.openstreetmap.org/wiki/Editors">muchas opciones</a> En el PC de escritorio o portatil puede hacer uso de Los editores
-web disponibles en la página (ID y Potlach) o la versión para descargar hecha en<a href="https://es.wikipedia.org/wiki/Java_%28lenguaje_de_programaci%C3%B3n%29">Java</u>JOSM</a></p>
+<li>Uso de editores: Para usar OSM tiene <a href="http://wiki.openstreetmap.org/wiki/Editors"> muchas opciones</a>. En el PC de escritorio o portatil puede hacer uso de Los editores
+web disponibles en la página (ID y Potlach) o la versión para descargar hecha en <a href="https://es.wikipedia.org/wiki/Java_%28lenguaje_de_programaci%C3%B3n%29">Java JOSM</a></p>
 Comience a mapear los lugares que habita o recorre continuamente. Siga las guías disponibles y consulte las preguntas frecuentes.
 
 </ol>
@@ -83,7 +83,7 @@ consecuencia.
 Así como la 	comunidad OSM usa convenciones generales reseñadas en
 la introducción de este documento, para los temas humanitarios
 existen etiquetas o convenciones específicas, que permiten hacer
-más pertinente y útil los datos representados en los mapas. Así,existen las<a href="http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Tags">OSM humanitarian  Tags o Conveciones humanitarias de OSM</a></u>
+más pertinente y útil los datos representados en los mapas. Así,existen las <a href="http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Tags"> OSM humanitarian Tags o Conveciones humanitarias de OSM </a>
 que permiten etiquetar los objetos espaciales con información específica que requieren las agencias y equipos
 que llevan a cabo la gestión del riesgo en terreno.</p>
 
@@ -91,7 +91,7 @@ que llevan a cabo la gestión del riesgo en terreno.</p>
 <ul>
 <li>La herramienta para 	la división del trabajo dividiendo el Área de
 Interés (Área Of 	Interest) es el TASK Manager. Familiarícese con
-él. Aquí tiene un <u><a href="http://www.youtube.com/watch?v=OE4esODrixc">Videotutorial</a>para la activación</u></p>
+él. Aquí tiene un <a href="http://www.youtube.com/watch?v=OE4esODrixc"> Videotutorial </a>para la activación</p>
 <p><a href="https://tasks.hotosm.org/project/1409#task/66">Acceda a la tarea activa en el Task Manager, la plataforma que enlaza a su editor
 preferido de OSM para trabajar en una cuadrícula a la vez en el mapeo humanitario. De esta manera los voluntarios se coordinan en el ejercicio de su labor y visualizan el trabajo colaborativo</a></p>
 </ul>
@@ -109,7 +109,7 @@ experimente con los tres tipos de editores y acomódese a uno de
 ellos. 
 <li>La mayoría de maperos humanitarios usamos JOSM en nuestros
 equipos: Para hacer uso de esta herramienta descargue la versión
-para su equipo en <a href="https://josm.openstreetmap.de/">https://josm.openstreetmap.de</a>
+para su equipo en <a href="https://josm.openstreetmap.de/"> https://josm.openstreetmap.de </a>
 
 </ul>
 
@@ -118,7 +118,8 @@ para su equipo en <a href="https://josm.openstreetmap.de/">https://josm.openstre
 <p><b>Otros materiales de referencia<b></p>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vjkNxaR7knQ" frameborder="0" allowfullscreen></iframe>
-<p><a href="http://trewa.co/2011/08/21/mapeando-el-municipio-de-manati-atlantico/">Mapeo humanitario en Manati Atlántico</a></u></p>
+<br>
+<p><a href="http://trewa.co/2011/08/21/mapeando-el-municipio-de-manati-atlantico/"> Mapeo humanitario en Manati Atlántico </a></p>
 
 <p>Encuentre aquí
 videos ilustrativos grabados en vivo durante uno de los talleres de
