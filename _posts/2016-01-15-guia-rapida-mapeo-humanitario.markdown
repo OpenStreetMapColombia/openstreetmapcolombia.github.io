@@ -7,10 +7,10 @@ author:     "Luis Miguel Sánchez"
 header-img: "img/watercolor_guajira.png"
 ---
 
-<H1>Guía rápida para voluntarios
-Mapatón por la Guajira:</H1>
+<h1>Guía rápida para voluntarios
+Mapatón por la Guajira:</h1>
 
-<H2><b>Introducción</H2></b>
+<h2><b>Introducción</b></h2>
 
 <p align="justify">
 <font size="2" style="font-size: 10pt">Mapear es una actividad
@@ -20,9 +20,9 @@ objetos espaciales a través del uso de convenciones específicas
 estandarización de la representación de los objetos espaciales no
 se cuenta con ni se pretende ejercer una labor bajo las reglas
 disciplinares de las ciencias del espacio como la geografía, la
-geodesia, la geopolítica.</font></p>
+geodesia, la geopolítica.</p>
 
-<p>
+<br>
 De esta manera, quien mapea
 con Open Street Maps, dibuja mapas con base en una referencia, sea
 una imagen satelital, una representación o un trazo tomado en campo
