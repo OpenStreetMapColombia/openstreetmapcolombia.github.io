@@ -4,7 +4,7 @@ title:      "Guía rápida para el mapeo humanitario"
 subtitle:   "Introducción al uso de herramientas digitales para el mapeo humanitario"
 date:       2016-01-15 12:00:00
 author:     "Luis Miguel Sánchez"
-header-img: "img/watercolor_guajira.png"
+header-img: "img/networking_crisiscamp.jpg"
 ---
 
 <h1>Guía rápida para voluntarios
