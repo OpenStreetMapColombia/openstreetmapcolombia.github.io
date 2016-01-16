@@ -95,9 +95,6 @@ Interés (Área Of 	Interest) es el TASK Manager. Familiarícese con
 preferido de OSM para trabajar en una cuadrícula a la vez en el mapeo humanitario. De esta manera los voluntarios se coordinan en el ejercicio de su labor y visualizan el trabajo colaborativo</a></p>
 </ul>
 
-<iframe src="https://tasks.hotosm.org/project/1409#task/66" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
-
 <p><b>QUÉ TRAER al evento:</b></p>
 <br>
 <p> Aunque no es un requisito indispensable que le impida participar, es recomendable llevar: </p>
