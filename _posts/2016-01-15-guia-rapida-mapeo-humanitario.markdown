@@ -89,10 +89,14 @@ que llevan a cabo la gestión del riesgo en terreno.</p>
 <p>
 <ul>
 <li>La herramienta para 	la división del trabajo dividiendo el Área de
-Interés (Área Of 	Interest) es el TASK Manager. Familiarícese con
+Interés (Área Of 	Interest) es el TASK Manager.
+<li> Familiarícese con
 él. Aquí tiene un <a href="http://www.youtube.com/watch?v=OE4esODrixc"> Videotutorial </a>para la activación</p>
+<li> <a href="http://www.openstreetmap.org/user/Polyglot/diary/37764"> Una serie de videos </a>  especialmente dirigidos al mapeo humanitario, realizados por uno de los usuarios de la comunidad 
 <p><a href="https://tasks.hotosm.org/project/1409#task/66">Acceda a la tarea activa en el Task Manager, la plataforma que enlaza a su editor
 preferido de OSM para trabajar en una cuadrícula a la vez en el mapeo humanitario. De esta manera los voluntarios se coordinan en el ejercicio de su labor y visualizan el trabajo colaborativo</a></p>
+
+
 </ul>
 
 <p><b>QUÉ TRAER al evento:</b></p>
