@@ -28,6 +28,8 @@
 
 <h2> Clipping de medios </h2>
 
+<iframe src="http://www.elheraldo.co/la-guajira/mapaton-por-el-agua-de-la-guajira-238856" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
+
 <iframe src="http://nota.elespectador.com/nodes/columnaelespectador/2016/01/n-609594.html" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
  
 <iframe src="http://nota.elespectador.com/nodes/articulo/2016/01/n-609839.html" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
