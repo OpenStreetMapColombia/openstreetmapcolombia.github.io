@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      "Agenda - La Guajira"
+subtitle:   "Agenda de actividades en campo: Riohacha y Nazareth"
+date:       2016-01-19 12:00:00
+author:     "Humberto Yances"
+header-img: "galeria/18458414662_7dd1eecf60_o.jpg
+"
+---
+
+<table class="table table-hover">
+	<thead>
+    	<tr>
+      		<th>Febrero 2016</th>
+       		<th>Actividad</th>
+       		<th>Descripci&oacute;n</th>
+    	</tr>
+    </thead>
+    <tbody>
+		<tr>
+			<td>16</td>
+			<td>Visitas a las comunidades</td>
+			<td>Visitas a las comunidades de La Guajira para identificar la geograf&iacute; y objetos a mapear.</td>
+		</tr>
+		<tr>
+			<td>17 - 19</td>
+			<td>Clases de Entrenamiento</td>
+			<td>Taller para la enseñanza de la edici&oacute; de mapas en OpenStreetMap.  Mapeo remoto y en campo.</td>
+		</tr>
+		<tr>
+			<td>20 - 24</td>
+			<td>Recolecci&oacute;n de datos</td>
+			<td>Salida a campo para recolectar datos en Riohacha y Nazareth.</td>
+		</tr>
+		<tr>
+			<td>25 - 26</td>
+			<td>Subida de datos</td>
+			<td>Retorno al sal&oacute; de clases para subir los datos recolectados a OpenStreetMap.</td>
+		</tr>
+</table>
