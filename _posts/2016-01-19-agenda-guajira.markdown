@@ -20,12 +20,12 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg
 		<tr>
 			<td>16</td>
 			<td>Visitas a las comunidades</td>
-			<td>Visitas a las comunidades de La Guajira para identificar la geograf&iacute; y objetos a mapear.</td>
+			<td>Visita a las comunidades de La Guajira para identificar la geograf&iacute;a y objetos a mapear.</td>
 		</tr>
 		<tr>
 			<td>17 - 19</td>
 			<td>Clases de Entrenamiento</td>
-			<td>Taller para la enseñanza de la edici&oacute; de mapas en OpenStreetMap.  Mapeo remoto y en campo.</td>
+			<td>Taller para la enseñanza de la edici&oacute;n de mapas en OpenStreetMap.  Mapeo remoto y en campo.</td>
 		</tr>
 		<tr>
 			<td>20 - 24</td>
@@ -35,6 +35,15 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg
 		<tr>
 			<td>25 - 26</td>
 			<td>Subida de datos</td>
-			<td>Retorno al sal&oacute; de clases para subir los datos recolectados a OpenStreetMap.</td>
+			<td>Retorno al sal&oacute;n de clases para subir los datos recolectados a OpenStreetMap.</td>
 		</tr>
 </table>
+
+<h2>Contacto en Riohacha</h2>
+YAMITH A. QUINTANA HERNÁNDEZ
+Ing. Agrónomo – Esp. Análisis y Gestión Ambiental
+MSc Medio Ambiente y Desarrollo
+Asesor - Proyecto Industrias Extractivas Guajira
+Móvil 3107288949
+PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO
+Riohacha – La Guajira (Colombia)
