@@ -39,12 +39,16 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg
 		</tr>
 </table>
 <hr>
-<p>
-<h2>Contacto en Riohacha</h2>
+<table class="table table-hover">
+<tr>
+	<td>
+		<h2>Contacto en Riohacha</h2>
 <b>YAMITH A. QUINTANA HERNÁNDEZ</b><br>
 Ing. Agrónomo – Esp. Análisis y Gestión Ambiental<br>
 MSc Medio Ambiente y Desarrollo<br>
 Asesor - Proyecto Industrias Extractivas Guajira<br>
 PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO<br>
 Riohacha – La Guajira (Colombia)
-</p>
+    </td>
+</tr>
+</table>
