@@ -38,7 +38,7 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg
 			<td>Retorno al sal&oacute;n de clases para subir los datos recolectados a OpenStreetMap.</td>
 		</tr>
 </table>
-<hr>
+<!-- <hr>
 <table class="table table-hover">
 <tr>
 	<td>
@@ -51,4 +51,4 @@ PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO<br>
 Riohacha – La Guajira (Colombia)
     </td>
 </tr>
-</table>
+</table> -->
