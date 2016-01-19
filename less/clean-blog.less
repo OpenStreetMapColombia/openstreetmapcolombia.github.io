@@ -19,6 +19,14 @@ p {
 	}
 }
 
+li {
+	line-height: 1.5;
+	margin: 30px 0;
+	a {
+		text-decoration: underline;
+	}
+}
+
 h1,
 h2,
 h3,
@@ -31,11 +39,13 @@ h6 {
 
 a {
 	color: @gray-dark;
+	text-decoration: underline;
 	&:hover,
 	&:focus {
 		color: @brand-primary;
 	}
 }
+
 
 a img {
 	&:hover,
@@ -235,7 +245,7 @@ hr.small {
 		color: @gray-dark;
 		&:hover,
 		&:focus {
-			text-decoration: none;
+			text-decoration: underline;
 			color: @brand-primary;
 		}
 		> .post-title {
@@ -255,7 +265,7 @@ hr.small {
 		font-style: italic;
 		margin-top: 0;
 		> a {
-			text-decoration: none;
+			text-decoration: underline;
 			color: @gray-dark;
 			&:hover,
 			&:focus {
