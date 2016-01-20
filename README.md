@@ -22,3 +22,25 @@ sudo apt-get install libmagickcore-6.q16-dev libmagickwand-6-headers
 gem install bundler
 bundle install
 ```
+
+## Estilo y CSS
+
+Si usted queire contribuir con el estilo del sitio va a usar grunt, primero
+debe contar con npm instalado, por ejemplo
+
+```
+apt-get install npm
+```
+
+en el directorio raíz de este proyecto aplicará
+
+```
+npm install
+```
+
+Y para ver los resultados de los archivos de estilo less, puede usar grunt
+para que los compile automáticamente con
+
+```
+grunt watch
+```
