@@ -15,6 +15,10 @@ Para visualizar la edición de sus documentos puede ver
 jekyll serve
 ```
 
+Puede usar html al interior de cada uno de los artículos, también
+puede emplear el [formato markdown](http://daringfireball.net/projects/markdown/syntax),
+con este tenderá a tener más limpios los escritos que haga.
+
 ## Para instalar
 
 ```
