@@ -4,8 +4,7 @@ title:      "Agenda - La Guajira"
 subtitle:   "Agenda de actividades en campo: Riohacha y Nazareth"
 date:       2016-01-19 12:00:00
 author:     "Humberto Yances"
-header-img: "galeria/18458414662_7dd1eecf60_o.jpg
-"
+header-img: "galeria/18458414662_7dd1eecf60_o.jpg"
 ---
 
 <table class="table table-hover">
