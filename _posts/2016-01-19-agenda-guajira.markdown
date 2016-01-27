@@ -37,17 +37,16 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg"
 			<td>Retorno al sal&oacute;n de clases para subir los datos recolectados a OpenStreetMap.</td>
 		</tr>
 </table>
-<!-- <hr>
+<hr>
 <table class="table table-hover">
 <tr>
 	<td>
-		<h2>Contacto en Riohacha</h2>
-<b>YAMITH A. QUINTANA HERNÁNDEZ</b><br>
-Ing. Agrónomo – Esp. Análisis y Gestión Ambiental<br>
-MSc Medio Ambiente y Desarrollo<br>
-Asesor - Proyecto Industrias Extractivas Guajira<br>
-PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO<br>
-Riohacha – La Guajira (Colombia)
+		<h2>Contacto para la donaci&oacute; de recursos en Riohacha</h2>
+<b>Juan Carlos Pach&oacute;n</b><br>
+Coordinador Voluntariado Mapat&oacute;n por La Guajira<br>
+eMail: <a href="mailto:juancarlospachon@openstreetmap.co">juancarlospachon@openstreetmap.co</a><br>
+Celular: 310 269 4942<br>
+OpenStreetMap Colombia
     </td>
 </tr>
-</table> -->
+</table>
