@@ -37,16 +37,3 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg"
 			<td>Retorno al sal&oacute;n de clases para subir los datos recolectados a OpenStreetMap.</td>
 		</tr>
 </table>
-<hr>
-<table class="table table-hover">
-<tr>
-	<td>
-		<h2>Contacto para la donaci&oacute; de recursos en Riohacha</h2>
-<b>Juan Carlos Pach&oacute;n</b><br>
-Coordinador Voluntariado Mapat&oacute;n por La Guajira<br>
-eMail: <a href="mailto:juancarlospachon@openstreetmap.co">juancarlospachon@openstreetmap.co</a><br>
-Celular: 310 269 4942<br>
-OpenStreetMap Colombia
-    </td>
-</tr>
-</table>
