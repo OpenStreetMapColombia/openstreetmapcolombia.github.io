@@ -29,20 +29,20 @@ analytics :
       tracking_id : 'UA-71933255-1'
 
 
-gallery:
+#gallery:
   # path to the gallery
-  dir: galeria
+  #dir: galeria
   # title for gallery index
-  title: "Galeria"
+  #title: "Galeria"
   # title prefix for gallery page. title=title_prefix+gallery_name
-  title_prefix: "Fotos OpenStreetMap Colombia"
+  #title_prefix: "Fotos OpenStreetMap Colombia"
   # field to control sorting of galleries for the index page
   # (possible values are: title, date_time, best_image)
-  sort_field: "date_time"
+  #sort_field: "date_time"
   # sizes for thumbnails
-  thumbnail_size:
-    x: 400
-    y: 400
+  #thumbnail_size:
+  #  x: 400
+  #  y: 400
   # custom configuration for individual gallery
   # best_image is image for the index page (defaults to last image)
   # galleries:
