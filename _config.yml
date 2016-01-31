@@ -1,7 +1,7 @@
 # Site settings
 title: OpenStreetMap Colombia
 intro: Ayuda a las comunidades Wayúu
-header-img: img/watercolor_guajira.png
+header-img: galeria/mapatonmintic.jpg
 email: info@openstreetmap.co
 description: "Bienvenidos al sitio de la OSM Colombia, creando mapas para emergencias."
 # button: '<br><br><a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>'
@@ -15,7 +15,8 @@ facebook_username:  groups/98009745459
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-gems: ['jekyll-paginate', 'jekyll-gallery-generator']
+gems: ['jekyll-paginate']
+#, 'jekyll-gallery-generator'
 paginate: 5
 exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md", "Gemfile", "Gemfile.lock"]
 
