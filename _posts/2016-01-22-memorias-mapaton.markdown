@@ -4,12 +4,12 @@ title:      "Mapatón por la Guajira: Memorias 20 de enero de 2016"
 subtitle:   "Reporte de las actividades desarrolladas en Bogotá, Armenia y otros lugares del mundo en 20 de enero de 2016"
 date:       2016-01-22 12:00:00
 author:     "Juan Carlos Pachón"
-header-img: "img/watercolor_guajira.png"
+header-img: "galeria/mapatonmintic.jpg"
 ---
 
 <p align="center"><h1>Mapatón por la Guajira.</h1> <br> <h2> Memorias de las actividades del 20 de Enero de 2016</h2></p>
 
-<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=&set_id=72157663605646532/with/23888029243&tags=MapatónXGuajira" frameBorder="0" width="500" height="500" scrolling="no"></iframe>
+<img src="{{ site.baseurl }}/galeria/torta.jpg" align="center"  alt="Torta de las 4 libertades">
 <br>
 
 <p align="justify">
@@ -23,6 +23,8 @@ Arrancamos con sólo media hora de retraso la programación, inicialmente hice u
 
 Vino el turno de Leonardo nuestro pedagogo a la hora de llevarnos de la mano por cada uno de los pasos que nos permiten construir las bases de conocimiento para adentrarnos en el arte de hacer mapas, no sin antes contarnos de la bella experiencia que ha desarrollado en la ciudad de Duitama con niños y niñas de edad escolar, convirtiéndolos en maperos de élite hasta el punto de ser ellos los que apoyaron el mapeo de crisis activado con ocasión del terremoto en Chile.
 <br>
+
+<img src="{{ site.baseurl }}/galeria/profewayuu.jpg" alt="profe Wuayúu">
 
 Cuando empezamos a llamar a las primeras tareas de la activación en la Guajira, en éste caso el el área entorno al municipio de Nazareth, empezamos a entender lo basta y compleja de la geografía de esos apartados territorios de nuestra amada Colombia, al sentirnos perdidos a la hora de interpretar la imágenes satelitales ya que para muchos de nosotros es una geografía desconocida. Tuvimos que apelar a la ayuda de los ojos expertos en el territorio del profesor en antropología de la Universidad Externado, guajiro de nacimiento y Wayúu, el profesor Francisco Socarrás. Nos habló de usos y costumbres de la comunidad Wayúu, algunas de sus formas de construcción, sus sembrados, cercados y cementerios. 
 Al final de la jornada, intensa y extensa esperamos haber logrado motivar y capacitar a esas 60 personas que movilizaron sus voluntades para levantar información geográfica a partir del uso de las tecnologías de la información, que permita crear una base de conocimiento insumo para la toma de decisiones a la hora de implementar acciones, programas y proyectos en el departamento, en el área de agua y saneamiento básico.
