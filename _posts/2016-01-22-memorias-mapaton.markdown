@@ -40,5 +40,8 @@ Para ello necesitamos de su apoyo en nuestra campaña de recolección de Millas 
 </p>
 <br>
 <p>
-<a href="https://twitter.com/search?f=tweets&vertical=default&q=%23Mapat%C3%B3nXGuajira&src=typd">Seguir comportamiento del hashtag #MapatónXGuajira</a>
+<a href="https://twitter.com/search?f=tweets&vertical=default&q=%23Mapat%C3%B3nXGuajira&src=typd">Tweets sobre #MapatónXGuajira</a>
+<a class="twitter-timeline"  href="https://twitter.com/hashtag/MapatonXGuajira" data-widget-id="693872809819410434">Tweets sobre #MapatonXGuajira</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 </p>
