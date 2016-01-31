@@ -21,6 +21,7 @@ Arrancamos con sólo media hora de retraso la programación, inicialmente hice u
 
 <br>
 
+<img src="{{ site.baseurl }}/galeria/leoguti.jpg" align="center" alt="profe Leo">
 Vino el turno de Leonardo nuestro pedagogo a la hora de llevarnos de la mano por cada uno de los pasos que nos permiten construir las bases de conocimiento para adentrarnos en el arte de hacer mapas, no sin antes contarnos de la bella experiencia que ha desarrollado en la ciudad de Duitama con niños y niñas de edad escolar, convirtiéndolos en maperos de élite hasta el punto de ser ellos los que apoyaron el mapeo de crisis activado con ocasión del terremoto en Chile.
 <br>
 
