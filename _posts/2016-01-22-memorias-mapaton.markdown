@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Mapatón por la Guajira: Memorias 20 de enero de 2016"
+title:      "Mapatón por La Guajira: Memorias 20 de enero de 2016"
 subtitle:   "Reporte de las actividades desarrolladas en Bogotá, Armenia y otros lugares del mundo en 20 de enero de 2016"
 date:       2016-01-22 12:00:00
 author:     "Juan Carlos Pachón"
 header-img: "galeria/mapatonmintic.jpg"
 ---
 
-<p align="center"><h1>Mapatón por la Guajira.</h1> <br> <h2> Memorias de las actividades del 20 de Enero de 2016</h2></p>
+<p align="center"><h1>Mapatón por La Guajira.</h1> <br> <h2> Memorias de las actividades del 20 de Enero de 2016</h2></p>
 
 <img src="{{ site.baseurl }}/galeria/nazareth.jpg" align="center"  alt="Torta de las 4 libertades">
 <br>
