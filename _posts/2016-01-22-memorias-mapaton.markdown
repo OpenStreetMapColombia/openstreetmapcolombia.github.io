@@ -4,12 +4,12 @@ title:      "Mapatón por la Guajira: Memorias 20 de enero de 2016"
 subtitle:   "Reporte de las actividades desarrolladas en Bogotá, Armenia y otros lugares del mundo en 20 de enero de 2016"
 date:       2016-01-22 12:00:00
 author:     "Juan Carlos Pachón"
-header-img: "galeria/nazareth.jpg"
+header-img: "galeria/mapatonmintic.jpg"
 ---
 
 <p align="center"><h1>Mapatón por la Guajira.</h1> <br> <h2> Memorias de las actividades del 20 de Enero de 2016</h2></p>
 
-<img src="{{ site.baseurl }}/galeria/mapatonmintic.jpg" align="center"  alt="Torta de las 4 libertades">
+<img src="{{ site.baseurl }}/galeria/nazareth.jpg" align="center"  alt="Torta de las 4 libertades">
 <br>
 
 <p align="justify">
@@ -39,7 +39,6 @@ Para ello necesitamos de su apoyo en nuestra campaña de recolección de Millas 
 <a href="http://blog.openstreetmap.co/ayuda/"> Haz click para saber cómo donar</a> 
 </p>
 <br>
-<p>Comportamiento del hashtag #MapatónXGuajira
-
-<iframe src="https://twitter.com/search?f=tweets&vertical=default&q=%23Mapat%C3%B3nXGuajira&src=typd" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
+<p>
+<a href="https://twitter.com/search?f=tweets&vertical=default&q=%23Mapat%C3%B3nXGuajira&src=typd">Seguir comportamiento del hashtag #MapatónXGuajira</a>
 </p>
