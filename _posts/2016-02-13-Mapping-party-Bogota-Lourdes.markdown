@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      "Mapping party - Bogota: Lourdes"
+subtitle:   "Mapeo en terreno en ciudad y subida de datos a OSM"
+date:       2016-02-14 12:00:00
+author:     "Andres Gomez"
+header-img: "img/lourdes.png"
+---
+
 El próximo 13 de marzo, se va a organizar un mapping party en Bogotá.
 En esta ocasión vamos a trabajar la tradicional [zona de Lourdes de Bogotá]
 (http://www.openstreetmap.org/#map=19/4.64950/-74.06230&layers=N) 
