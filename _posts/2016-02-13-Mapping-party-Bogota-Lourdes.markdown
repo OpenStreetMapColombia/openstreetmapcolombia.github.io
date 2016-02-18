@@ -26,5 +26,6 @@ la calle 64 con 11, a las 9am.
 El evento se está convocando por medio de 
 [MeetUp](http://www.meetup.com/Maptime-Colombia-OSM/events/228832727/)
 en donde encontrarán más detalles del evento.
+El organizador del evento es Andres Gomez @angoca
 
 Todos están cordialmente bienvenidos!
