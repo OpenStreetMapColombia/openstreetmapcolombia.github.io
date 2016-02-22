@@ -6,7 +6,8 @@ date:       2016-01-19 12:00:00
 author:     "Humberto Yances"
 header-img: "galeria/18458414662_7dd1eecf60_o.jpg"
 ---
-
+<h1>Agenda del Taller de Cruz Roja en Riohacha</h1>
+<strong>***Nota: confirmar los detalles de la agenda con el contacto de Cruz Roja, datos abajo***.</strong>
 <table class="table table-hover">
 	<thead>
     	<tr>
@@ -29,11 +30,22 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg"
 		<tr>
 			<td>20 - 24</td>
 			<td>Recolecci&oacute;n de datos</td>
-			<td>Salida a campo para recolectar datos en Riohacha y Nazareth.</td>
+			<td>Salida a campo para recolectar datos en Riohacha.</td>
 		</tr>
 		<tr>
 			<td>25 - 26</td>
 			<td>Subida de datos</td>
 			<td>Retorno al sal&oacute;n de clases para subir los datos recolectados a OpenStreetMap.</td>
 		</tr>
+</table>
+<hr>
+<h2>Contacto para el taller de mapeo en Riohacha</h2>
+<table class="table table-hover">
+	<tr>
+		<td>
+			Lugar: <b>Hotel Barbacoa, Calle 13 No. 15-09. Riohacha Guajira a 5 minutos del Aeropuerto</b><br>
+			Contacto: <b>Manuel Hernández, Coordinador del Proyecto Rita, Cruz Roja Colombiana</b><br>
+			Celular: <b>311 4549879.</b>
+    		</td>
+	</tr>
 </table>
