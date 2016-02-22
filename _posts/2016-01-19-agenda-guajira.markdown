@@ -39,13 +39,15 @@ header-img: "galeria/18458414662_7dd1eecf60_o.jpg"
 		</tr>
 </table>
 <hr>
+<p>
 <h2>Contacto para el taller de mapeo en Riohacha</h2>
+</p>
 <table class="table table-hover">
 	<tr>
 		<td>
 			<b>Lugar:</b> Hotel Barbacoa, Calle 13 No. 15-09. Riohacha Guajira a 5 minutos del Aeropuerto<br>
 			<b>Contacto:</b> Manuel Hernández, Coordinador del Proyecto Rita, Cruz Roja Colombiana<br>
-			<b>Celular:</b> 311 4549879.
+			<b>Celular:</b> 311 4549879.<br>
 			<b>eMail:</b> <a href="mailto:admon.nal.soc.nal@cruzrojacolombiana.org">admon.nal.soc.nal@cruzrojacolombiana.org</a>
     		</td>
 	</tr>
