@@ -1,9 +1,14 @@
-Aquí está el resultado de la mapping party de Lourdes,
+El pasado 12 de marzo de 2015 se organizó un Mapping party en Bogotá, el cual fue convocado principalmente por [MeetUp](http://www.meetup.com/Maptime-Colombia-OSM/events/228832727/) y por [Maptime-Bogota](http://maptime.io/bogota/).
+Este mapping party tuvo una asistencia de 10 personas, entre los que había miembros de Maptime-DC de Washington.
 
-* [Esta actual de OSM.](http://www.openstreetmap.org/#map=18/4.64960/-74.06247)
+El objetivo de esta convocatoria era aprender a mapear, levantando información en terreno y después su posterior trazado digital en OpenStreetMap. Se hizo el levantamiento de terreno por algo más de una hora, explicando el uso de las diferentes herramientas y los tipos de datos que se deben recoger. Posteriormente, nos desplazamos a un café para hacer el trabajo en el computador, por lo que fuimos a un Starbucks, donde había una gran mesa e Internet, elementos muy importantes para poder hacer el mapeo. 
+
+Como los participantes eran novatos, la parte de mapeo en OSM fue muy poca durante el mapping party, y lo que se hizo fue hacer esta tarea a posteriori. Aquí está el resultado de la mapping party de Lourdes,
+
+* [Esta actual de OSM](http://www.openstreetmap.org/#map=18/4.64960/-74.06247) después de subir los datos que se han recogido.
 * [Comparación de la zona.](http://pierzen.dev.openstreetmap.org/hot/leaflet/OSM-Compare-before-after.html#18/4.64981/-74.06237)
 Tiene un mapa de hace varios años, y el resultado después del Mapping Party.
-* [Vista tridimensional](http://demo.f4map.com/#lat=4.6496973&lon=-74.0626546&zoom=19&camera.theta=48.201&camera.phi=0.104)
+* [Vista tridimensional](http://demo.f4map.com/#lat=4.6496973&lon=-74.0626546&zoom=19&camera.theta=48.201&camera.phi=0.104) por medio de F4map.
 
 Herramientas usadas:
 
@@ -16,3 +21,4 @@ Herramientas usadas:
 * iD
 * JOSM
 
+Estas son unas imágenes que muestran el trabajo hecho en esta zona.
