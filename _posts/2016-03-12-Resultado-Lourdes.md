@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      "Resultado del Mapping party - Bogota: Lourdes"
+subtitle:   "Comparación de datos y visualizacion en 3D"
+date:       2016-03-22 12:00:00
+author:     "Andres Gomez"
+header-img: "img/lourdes-despues.png"
+---
+
 El pasado 12 de marzo de 2015 se organizó un Mapping party en Bogotá, el cual fue convocado principalmente por [MeetUp](http://www.meetup.com/Maptime-Colombia-OSM/events/228832727/) y por [Maptime-Bogota](http://maptime.io/bogota/).
 Este mapping party tuvo una asistencia de 10 personas, entre los que había miembros de Maptime-DC de Washington.
 
