@@ -23,6 +23,17 @@ Herramientas usadas:
 
 Estas son unas imágenes que muestran el trabajo hecho en esta zona.
 
+![Antes](img/lourdes.png)
+Estado de Lourdes antes del mapping party.
+
+![Despues](img/lourdes-despues.png)
+Estado de Lourdes después del mapping party.
+
+![Vista 3D](img/lourdes-despues-3d.png)
+Vista en 3D con los datos recolectados por el mapping party.
+
+![Fotos mapillary](img/lourdes-despues-mapillary.png)
+Ruta de fotos en Mapillary para levantamiento de información.
 
 
 Más información sobre este [Mapping party en el blog de Maptime-Bogota](http://maptime.io/bogota/2016/03/12/Resultado-Lourdes/).
