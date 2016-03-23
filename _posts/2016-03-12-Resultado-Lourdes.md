@@ -22,3 +22,7 @@ Herramientas usadas:
 * JOSM
 
 Estas son unas imágenes que muestran el trabajo hecho en esta zona.
+
+
+
+Más información sobre este [Mapping party en el blog de Maptime-Bogota](http://maptime.io/bogota/2016/03/12/Resultado-Lourdes/).
