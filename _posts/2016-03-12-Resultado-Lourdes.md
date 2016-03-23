@@ -7,7 +7,7 @@ author:     "Andres Gomez"
 header-img: "img/lourdes-despues.png"
 ---
 
-El pasado 12 de marzo de 2015 se organizó un Mapping party en Bogotá, el cual fue convocado principalmente por [MeetUp](http://www.meetup.com/Maptime-Colombia-OSM/events/228832727/) y por [Maptime-Bogota](http://maptime.io/bogota/).
+El pasado 12 de marzo de 2016 se organizó un Mapping party en Bogotá, el cual fue convocado principalmente por [MeetUp](http://www.meetup.com/Maptime-Colombia-OSM/events/228832727/) y por [Maptime-Bogota](http://maptime.io/bogota/).
 Este mapping party tuvo una asistencia de 10 personas, entre los que había miembros de Maptime-DC de Washington.
 
 El objetivo de esta convocatoria era aprender a mapear, levantando información en terreno y después su posterior trazado digital en OpenStreetMap. Se hizo el levantamiento de terreno por algo más de una hora, explicando el uso de las diferentes herramientas y los tipos de datos que se deben recoger. Posteriormente, nos desplazamos a un café para hacer el trabajo en el computador, por lo que fuimos a un Starbucks, donde había una gran mesa e Internet, elementos muy importantes para poder hacer el mapeo. 
