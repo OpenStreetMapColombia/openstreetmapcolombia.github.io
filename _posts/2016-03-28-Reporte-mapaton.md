@@ -4,7 +4,7 @@ title:      "Mapatón por La Guajira: Reporte de actividades en Riohacha y Maica
 subtitle:   "Reporte de las actividades desarrolladas en Bogotá, Armenia y otros lugares del mundo en 20 de enero de 2016"
 date:       2016-03-28 12:00:00
 author:     "Yesenia Zuñiga, Karelys Zuñiga y Humberto Yances"
-header-img: "galeria/mapatonmintic.jpg"
+header-img: "galeria/30-dscf5279_mapatonxguajira_rancheria_25474477765_o.jpg"
 ---
 
 <img src="{{ site.baseurl }}/img/image04.png" align="center"  alt="">
