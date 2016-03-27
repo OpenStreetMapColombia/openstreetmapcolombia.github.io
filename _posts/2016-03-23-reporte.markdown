@@ -62,6 +62,8 @@ M&aacute;s detalles sobre este trabajo puede verse en estas [diapositivas](https
 
 Continuando con el trazado remoto promovido por el **Missing Maps** a través del [proyecto #1444](http://tasks.hotosm.org/project/1444), los miembros de la comunidad OSM Colombia: Juan Carlos Pach&oacute;n (aka Arttesano) y Fredy Rivera (aka Humano), estuvieron visitando colegios, la sede de la Universidad de La Guajira en Maicao y una rancher&iacute;a en los alrededores de ese centro poblado.  Levantando datos en campo usando FieldPapers y Mapillary, también realizando talleres de mapeo remoto.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/arttesano/albums/72157663059443924" title="MapatonxGuajira Campo"><img src="https://farm2.staticflickr.com/1608/24843930714_37949246b8_c.jpg" width="100%" height="600" alt="MapatonxGuajira Campo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Este album fotogr&aacute;fico hecho por Arttesano [document&oacute; la experiencia](https://m.flickr.com/#/photos/arttesano/sets/72157663059443924/), cuyas trazas y fotos en campo realizadas con la aplicaci&oacute;n m&oacute;vil Mapillary, quedaron consignadas en esta [p&aacute;gina](http://www.mapillary.com/map/im/aF_GjyRRovl6IpbNXju7aw/photo).
 
 <h2>IV.  Marzo: nuevos proyectos de mapeo</h2>
