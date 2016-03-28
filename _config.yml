@@ -16,7 +16,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 gems: ['jekyll-paginate']
-paginate: 10
+paginate: 5
 exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md", "Gemfile", "Gemfile.lock"]
 
 # Settings for analytics helper
