@@ -44,7 +44,8 @@ El &uacute;ltimo d&iacute;a de entrenamiento se realiz&oacute; en el barrio Jos&
 <img src="{{ site.baseurl }}/img/image09.jpg" align="center"  alt="">
 <img src="{{ site.baseurl }}/img/image07.jpg" align="center"  alt="">
 
-    *Nota:* Las actividades para la subida de los datos capturados continuaron durante la seguiente semana.
+    *Nota:* Las actividades para la subida de los datos capturados continuaron
+            durante la siguiente semana.
 
 <h2>II.  17 de febrero: vuelo del drone en la cuenca baja del Rancher&iacute;a</h2>
 
