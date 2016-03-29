@@ -6,7 +6,7 @@ date:       2016-03-23 12:00:00
 author:     "Yesenia Zuñiga, Karelys Zuñiga y Humberto Yances"
 header-img: "galeria/30-dscf5279_mapatonxguajira_rancheria_25474477765_o.jpg"
 ---
-
+<h2>Riohacha</h2>
 <img src="{{ site.baseurl }}/img/image04.png" align="center"  alt="">
 
 Luego de la exitosa jornada de mapeo remoto con alrededor de [60 participantes agolpados en la Sala de Innovaci&oacute;n del MinTic](http://blog.openstreetmap.co/2016/01/22/memorias-mapaton/), la [#Mapat&oacute;nXLaGuajira](https://twitter.com/hashtag/mapatonxguajira) se traslad&oacute; f&iacute;sicamente hacia el departamento de La Guajira, donde vol&oacute; un drone y realizó talleres de mapeo entre las ciudades de Riohacha y Maicao. &nbsp;Nuevos proyectos de mapeo remoto han sido abiertos para continuar trazando el agua, v&iacute;as y centros poblados a lo largo y ancho del departamento, gracias a la capacidad local generada tras la formaci&oacute;n de nuevos maperos originarios de esta des&eacute;rtica regi&oacute;n. &nbsp;El objetivo final es el an&aacute;lisis de los datos geogr&aacute;ficos para entender mejor la problem&aacute;tica de sequ&iacute;a y hambruna que ha llevado a la Corte Interamericana de Derechos Humanos (CIDH) a levantar medidas cautelares para la atenci&oacute;n urgente de la poblaci&oacute;n ind&iacute;gena Way&uacute;u. &nbsp;Los datos tambi&eacute;n est&aacute;n publicados para libre uso de cualquier persona o instituci&oacute;n interesada y ser&aacute;n actualizados peri&oacute;dicamente seg&uacute;n avances se vayan dando.
