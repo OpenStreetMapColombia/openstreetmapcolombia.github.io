@@ -1,0 +1,83 @@
+---
+layout:     post
+title:      "Mapatón por La Guajira"
+subtitle:   "Reporte de las actividades desarrolladas entre Riohacha y Maicao"
+date:       2016-03-23 12:00:00
+author:     "Yesenia Zuñiga, Karelys Zuñiga y Humberto Yances"
+header-img: "galeria/30-dscf5279_mapatonxguajira_rancheria_25474477765_o.jpg"
+---
+<h2>Riohacha</h2>
+<img src="{{ site.baseurl }}/img/image04.png" align="center"  alt="">
+
+Luego de la exitosa jornada de mapeo remoto con alrededor de [60 participantes agolpados en la Sala de Innovaci&oacute;n del MinTic](http://blog.openstreetmap.co/2016/01/22/memorias-mapaton/), la [#Mapat&oacute;nXLaGuajira](https://twitter.com/hashtag/mapatonxguajira) se traslad&oacute; f&iacute;sicamente hacia el departamento de La Guajira, donde vol&oacute; un drone y realizó talleres de mapeo entre las ciudades de Riohacha y Maicao. &nbsp;Nuevos proyectos de mapeo remoto han sido abiertos para continuar trazando el agua, v&iacute;as y centros poblados a lo largo y ancho del departamento, gracias a la capacidad local generada tras la formaci&oacute;n de nuevos maperos originarios de esta des&eacute;rtica regi&oacute;n. &nbsp;El objetivo final es el an&aacute;lisis de los datos geogr&aacute;ficos para entender mejor la problem&aacute;tica de sequ&iacute;a y hambruna que ha llevado a la Corte Interamericana de Derechos Humanos (CIDH) a levantar medidas cautelares para la atenci&oacute;n urgente de la poblaci&oacute;n ind&iacute;gena Way&uacute;u. &nbsp;Los datos tambi&eacute;n est&aacute;n publicados para libre uso de cualquier persona o instituci&oacute;n interesada y ser&aacute;n actualizados peri&oacute;dicamente seg&uacute;n avances se vayan dando.
+
+<h2>16 - 20 de febrero: Taller de mapeo con el <a href="http://www.missingmaps.org/">Missing Maps</a></h2>
+A temprana horas de la ma&ntilde;ana, la fresca brisa costera de la ciudad de Riohacha daba la bienvenida a los cerca de 30 participantes de este taller, una actividad de formaci&oacute;n en el marco del Programa RITA (Resiliencia en las Am&eacute;ricas, por sus siglas en ingl&eacute;s) de la Cruz Roja Americana (CRA), cuyo objetivo es reforzar la capacidad de autogesti&oacute;n de las organizaciones comunitarias, cinco (5) de ellas localizadas en Riohacha.
+
+Con el objeto de diversificar la gestación de la capacidad local entre otros sectores como el académico o la investigación, 10 de los asistentes representaron a Universidad de la Guajira, PNUD y la Fundaci&oacute;n Creacua.  Al replicarse los conocimientos adquiridos o aplicarlos en el análisis espacial de los problemas pertinentes, refuerza su característica de sustentable, permitiendo continuar con la creaci&oacute;n de datos geogr&aacute;ficos a lo largo y ancho del departamento, oportunos ante su actual crisis humanitaria.
+
+A continuaci&oacute;n y a modo de bit&aacute;cora se presenta el resumen de actividades d&iacute;a a d&iacute;a:
+
+<h3>Martes, 16 de febrero de 2016</h3>
+Se dio inicio a la capacitaci&oacute;n de mapeo a trav&eacute;s de la herramienta OSM. En la jornada de la ma&ntilde;ana se realiz&oacute; una revisi&oacute;n de la agenda preparada para dicho taller, luego una introducci&oacute;n a OpenStreetMap (OSM) y el objetivo general de la actividad de mapeo en el pol&iacute;gono del municipio de Riohacha. Seguidamente los participantes abrieron una cuenta en OSM que permitir&aacute; establecer contacto con otros mapeadores y &nbsp;poder utilizar elementos de edici&oacute;n para mapear, se crearon 5 grupos para desarrollar un ejercicio de mapeo comunitario, por medio de diversos mapas que contienen el &aacute;rea urbana (las v&iacute;as principales y sus fronteras); el cual consisti&oacute; en identificar y ubicar dentro de los mapas zonas de inter&eacute;s de acuerdo al perfil de cada participante. En la segunda jornada se trabaj&oacute; un poco m&aacute;s a fondo las herramientas de OSM y se habl&oacute; del editor JOSM.
+
+<img src="{{ site.baseurl }}/img/image05.jpg" align="center"  alt="">
+
+<h3>Mi&eacute;rcoles, 17 de febrero de 2016</h3>
+La primera jornada inici&oacute; con un breve repaso del d&iacute;a anterior, al culminar con el proceso de retroalimentaci&oacute;n se hizo una introducci&oacute;n a OpenMapKit Mobile App, se abarc&oacute; todo lo relacionado con el manejo de esta aplicaci&oacute;n por parte de los capacitadores. &nbsp;Terminada la introducci&oacute;n del uso de OpenMapKit Mobile, se hizo un peque&ntilde;o ejercicio en campo. Esta pr&aacute;ctica fue realizada en cercan&iacute;as al hotel Barbacoa, por ser este el punto de formaci&oacute;n y para evitar riesgos de inseguridad. El entrenamiento de campo fue realizado por grupos de dos participantes, uno manejo el equipo y el otro un planillero que conten&iacute;a el &aacute;rea a mapear, con el fin de corroborar la informaci&oacute;n real con la contenida en el mapa. En horas de la tarde se tom&oacute; el espacio para hacer las preguntas e inquietudes generadas en la salida de campo, adem&aacute;s se retroalimento lo expuesto hasta el momento.
+
+
+<h3>Jueves, 18 de febrero de 2016</h3>
+El primer d&iacute;a de pr&aacute;ctica se llev&oacute; a cabo en los barrios Nuevo Milenio y Villa Keila, se formaron parejas para trabajar las diferentes zonas escogidas para realizar el entrenamiento en campo. El punto de encuentro fue la sede de la Cruz Roja seccional Guajira, a las 7:00 am. De all&iacute; el transporte nos traslad&oacute; al parque del barrio Nuevo Milenio y los respectivos grupos partimos a las &aacute;reas designadas, contando con un radio para comunicarnos con el resto de compa&ntilde;eros.
+
+<img src="{{ site.baseurl }}/img/image03.jpg" align="center"  alt="">
+
+<h3>Viernes, 19 de febrero de 2016</h3>
+Para este segundo d&iacute;a de entrenamiento en campo, los barrios a mapear fueron Bocagrande y la Loma, se formaron parejas para la realizaci&oacute;n de la actividad de mapeo (al igual que el d&iacute;a anterior). El punto de encuentro de los participantes fue en la instituci&oacute;n My Sweet Home School, ubicada en la calle 28 entre carrera 10 y 11bis.
+
+<img src="{{ site.baseurl }}/img/image06.jpg" align="center"  alt="">
+<img src="{{ site.baseurl }}/img/image01.jpg" align="center"  alt="">
+
+<h3>S&aacute;bado, 20 de febrero de 2016.</h3>
+El &uacute;ltimo d&iacute;a de entrenamiento se realiz&oacute; en el barrio Jos&eacute; Antonio Gal&aacute;n, al igual que en los anteriores d&iacute;as se conformaron parejas para llevar a cabo las actividades de georeferenciaci&oacute;n.
+
+<img src="{{ site.baseurl }}/img/image09.jpg" align="center"  alt="">
+<img src="{{ site.baseurl }}/img/image07.jpg" align="center"  alt="">
+
+    *Nota:* Las actividades para la subida de los datos capturados continuaron
+            durante la siguiente semana.
+
+<h2>II.  17 de febrero: vuelo del drone en la cuenca baja del Rancher&iacute;a</h2>
+
+<img src="{{ site.baseurl }}/img/image02.jpg" align="center"  alt="">
+
+Con el asomo de los primeros rayos de sol, proyectados en el azul horizonte del litoral guajiro, grupos de investigaci&oacute;n de la Universidad de La Guajira, la [Fundaci&oacute;n Creacua](http://creacua.wix.com/creacua) y la empresa [EcoExplora SAS](http://ecoexploraconsultoria.jimdo.com/), se dieron cita el 17 de febrero para la captura de una imagen a&eacute;rea sobre unas 400 hect&aacute;reas de la cuenca baja del r&iacute;o Rancher&iacute;a, zona inundable objeto de estudio cient&iacute;fico, el cual novedosamente incorpora el uso de fuentes de datos abiertos como OpenStreetMap. &nbsp;Esta loable y altruista uni&oacute;n se di&oacute; como resultado de la convocatoria realizada para la #Mapat&oacute;nXLaGuajira: ante el ofrecimiento de [EcoExplora SAS](http://ecoexploraconsultoria.jimdo.com/) sobre la donaci&oacute;n de vuelos de drone, el grupo de investigaci&oacute;n [GISA](http://scienti.colciencias.gov.co:8080/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000054) defini&oacute; el &Aacute;rea de Inter&eacute;s (AOI) y la log&iacute;stica de campo para la captura de puntos de control topogr&aacute;ficos que sirvieran al anclaje y amarre de la imagen. &nbsp;Hacia la media ma&ntilde;ana, el descenso en la velocidad del viento permiti&oacute; finalizar la captura con un solo vuelo, como resultado se obtuvo un ortofotomosaico de alta resoluci&oacute;n de 10 cent&iacute;metros por pixel.
+
+<img src="{{ site.baseurl }}/img/image00.jpg" align="center"  alt="">
+
+Posteriormente &mdash;siguiendo el flujo de proceso instaurado por OSM Colombia para la respuesta ante desastres&mdash; la imagen fue enviada al servidor TMS de OpenStreetMap Francia y configurada en el Gestor de Tareas de Colombia para su trazado por parte de la nueva comunidad mapera en La Guajira.
+
+M&aacute;s detalles sobre este trabajo puede verse en estas [diapositivas](https://drive.google.com/file/d/0BzA7s2FhqVSXeGppTWZRR08tQ0E/view)
+
+<h2>III.&nbsp;&nbsp;21 - 28 de febrero: Mapeo en Maicao</h2>
+
+<img src="{{ site.baseurl }}/img/image08.png" align="center"  alt="">
+
+Continuando con el trazado remoto promovido por el **[Missing Maps](http://www.missingmaps.org/)** a través del [proyecto #1444](http://tasks.hotosm.org/project/1444), los miembros de la comunidad OSM Colombia: Juan Carlos Pach&oacute;n (aka [Arttesano](https://twitter.com/arttesano)) y Fredy Rivera (aka [Humano](https://twitter.com/fredy_rivera)), estuvieron visitando colegios, la sede de la Universidad de La Guajira en Maicao y una rancher&iacute;a en los alrededores de ese centro poblado.  Levantando datos en campo usando FieldPapers y Mapillary, también realizando talleres de mapeo remoto, sembrando la semilla de OpenStreetMap con cerca de 100 participantes.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/arttesano/albums/72157663059443924" title="MapatonxGuajira Campo"><img src="https://farm2.staticflickr.com/1608/24843930714_37949246b8_c.jpg" width="100%" height="100%" alt="MapatonxGuajira Campo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Este album fotogr&aacute;fico hecho por Arttesano [document&oacute; la experiencia](https://m.flickr.com/#/photos/arttesano/sets/72157663059443924/), cuyas trazas y fotos en campo realizadas con la aplicaci&oacute;n m&oacute;vil Mapillary, quedaron consignadas en esta [p&aacute;gina](http://www.mapillary.com/map/im/aF_GjyRRovl6IpbNXju7aw/photo).
+
+<h2>IV.  Marzo: nuevos proyectos de mapeo</h2>
+
+La #Mapat&oacute;nXLaGuajira realizó un llamado para la donación de datos espaciales o mapas, el cual fue escuchado por el actual Secretario de Planeaci&oacute;n de la Gobernaci&oacute;n de La Guajira, [Mauricio Ramirez](https://twitter.com/MauricioAdmPub), quién se anotó un punto con la donaci&oacute;n de datos espaciales &mdash;producto de largos años atravesando las latitudes de la península&mdash;.  Parte de estos datos corresponden a cerca de 3.700 nodos de geolocalizaci&oacute;n de jag&uuml;eyes y reservorios, los cuales han sido utilizados para crear el [proyecto de mapeo "Jagüeyes y Reservorios de La Guajira"](http://tareas.openstreetmap.co/project/3).  Las tareas de este proyecto consisten en ir dando &ldquo;saltos&rdquo; de un nodo a otro para trazar los cuerpos de agua evidentes en las im&aacute;genes de Bing y Mapbox.
+
+Un [segundo proyecto](http://tareas.openstreetmap.co/project/5) ha sido publicado con el objeto de actualizar la cartograf&iacute;a usando la imagen de EcoExplora.  La c&aacute;tedra de Sistemas de Informaci&oacute;n Geogr&aacute;fica (SIG) de la Universidad de La Guajira, realizará una nueva actividad de mapeo en escritorio con salidas a campo, en esa zona al norte de Riohacha, entre suelo urbano y el delta inundable del r&iacute;o Rancher&iacute;a.
+
+<h2>V.  Marzo - junio: publicaci&oacute;n y an&aacute;lisis de datos</h2>
+
+Todo el departamento de La Guajira tiene una instancia creada en el [HOT Export Tool](http://export.hotosm.org/es/exports/40624a90-7439-463a-8a3c-b9c60b5ec895/) la cual se ejecuta peri&oacute;dicamente para crear extractos actualizados, estos se encuentran publicados en la plataforma [HDX](https://data.hdx.rwlabs.org/dataset/la-guajira-colombia).
+
+En próximos meses se realizar&aacute; una Hackat&oacute;n organizada por los grupos Big Data y Open Data Colombia, cient&iacute;ficos de datos (algunos fuera del pa&iacute;s) que han seleccionado como uno de los retos del evento: descubrir, analizar y visibilizar aspectos relevantes de la geograf&iacute;a des&eacute;rtica de la pen&iacute;nsula.  Hallazgos cuyo foco se centra en contribuir a resolver la crisis humanitaria.
+
