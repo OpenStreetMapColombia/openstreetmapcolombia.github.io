@@ -13,10 +13,10 @@ En esta ocasión vamos a trabajar la clásica y turística [plaza de Usaquén]
 (Calle 118 con Carrera 6A).
 
 En este evento se podrá aprender acerca las actividades que hacen parte del
-mapeo: Levantamiento de datos, y mapeo.
+mapeo en OSM: Levantamiento de datos, y mapeo digital.
 Se van a levantar datos en terreno por medio de
-[Field Papers](http://fieldpapers.org/atlases/3ic95t5l)
-y otras herramientas.
+[Field Papers](http://fieldpapers.org/atlases/3ic95t5l), encuestas, trazas GPX
+capturadas con aplicaciones para smartphones y otras herramientas.
 Posteriormente, se van a tomar los datos recogidos y se van a trazar en
 las diferentes herramientas que ofrece OpenStreetMap (iD, JOSM).
 
@@ -27,6 +27,7 @@ El evento se está convocando por medio de
 [MeetUp](http://www.meetup.com/Maptime-Colombia-OSM/events/230174006/) y 
 [MaptimeBogota](http://maptime.io/bogota/event/2016/05/07/Mapping-Party-Usaquen/)
 en donde encontrarán más detalles del evento.
+
 El organizador del evento es Andres Gomez @angoca
 
 Todos están cordialmente bienvenidos!
