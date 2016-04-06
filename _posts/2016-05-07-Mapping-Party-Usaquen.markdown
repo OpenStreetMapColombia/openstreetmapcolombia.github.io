@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Mapping party - Bogota: Lourdes"
+title:      "Mapping party - Bogota: Usaquén"
 subtitle:   "Mapeo en terreno en ciudad y subida de datos a OSM"
-date:       2016-02-14 12:00:00
+date:       2016-04-06 12:00:00
 author:     "Andres Gomez"
-header-img: "img/lourdes.png"
+header-img: "img/usaquen-antes.png"
 ---
 
 El próximo 7 de mayo, se va a organizar un mapping party en Bogotá.
