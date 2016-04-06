@@ -9,7 +9,7 @@ header-img: "img/lourdes.png"
 
 El próximo 7 de mayo, se va a organizar un mapping party en Bogotá.
 En esta ocasión vamos a trabajar la clásica y turística [plaza de Usaquén]
-(http://www.openstreetmap.org/#map=19/4.64950/-74.06230&layers=N) 
+(http://www.openstreetmap.org/#map=19/4.69518/-74.03108) 
 (Calle 118 con Carrera 6A).
 
 En este evento se podrá aprender acerca las actividades que hacen parte del
