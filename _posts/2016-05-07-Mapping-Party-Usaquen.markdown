@@ -8,9 +8,8 @@ header-img: "img/usaquen-antes.png"
 ---
 
 El próximo 7 de mayo, se va a organizar un mapping party en Bogotá.
-En esta ocasión vamos a trabajar la clásica y turística [plaza de Usaquén]
-(http://www.openstreetmap.org/#map=19/4.69518/-74.03108) 
-(Calle 118 con Carrera 6A).
+En esta ocasión vamos a trabajar la clásica y turística [plaza de Usaquén](http://www.openstreetmap.org/#map=19/4.69518/-74.03108).
+La dirección es Calle 118 con Carrera 6A; en [What3words: Tomates.Gafas.Varios](http://w3w.co/tomates.gafas.varios).
 
 En este evento se podrá aprender acerca las actividades que hacen parte del
 mapeo en OSM: Levantamiento de datos, y mapeo digital.
