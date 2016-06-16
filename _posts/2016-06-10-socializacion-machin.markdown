@@ -21,7 +21,7 @@ header-img: "https://tupale.co/milfs/images/secure/?file=full/cdf49c94ea93f8d6a1
  
 
 			<img class=" img img-round img-responsive" style="width:100%" src="https://api.tiles.mapbox.com/v4/examples.map-zr0njcqy/url-https%3A%2F%2Ftupale.co%2Fmilfs%2Fimages%2Ficonos%2Fpin.png(-75.3892993927002,4.48675557593523,14)/-75.3892993927002,4.48675557593523,14/600x150.png?access_token=pk.eyJ1IjoiZmNhc3Ryb3QiLCJhIjoiY2lnOWw1bmd1MG93eXVsbTJpcmluYTBxdCJ9.yG7C1rEH6-MpZBEEb68IVg">
-			<a target="mapa" href="https://www.openstreetmap.org/?mlat=4.48675557593523&amp;mlon=-75.3892993927002#map=14/4.48675557593523/-75.3892993927002&amp;layers=C">Ver mapa</a>
+			<a target="mapa" href="https://umh.openstreetmap.co/milfs/map.php?id=181">Ver mapa</a>
 			 
         </div>
         
