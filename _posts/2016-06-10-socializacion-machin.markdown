@@ -10,7 +10,7 @@ header-img: "https://tupale.co/milfs/images/secure/?file=full/cdf49c94ea93f8d6a1
         <span class="badge"> UMH, Volcán Cerro Machin, Corregimiento de Toche  </span>
 	<h2 id="estuvimos-dentro-del-volc-n-cerro-mach-n-general"> Estuvimos dentro del Volcán Cerro Machín ! | <small> General </small></h2>
 		<div style="max-width:20%; float:left; margin: 10px;">
-		<img style="" class="img img-responsive img-rounded" src="milfs/images/secure/?file=300/">  
+		  
 		</div>
 		<div style="width:30%; float:right; margin: 10px;">
 		<strong class="text-warning"> <p>Socialización de la Unidad de Mapeo Humanitario con la comunidad de Toche, Ibagué, Tolima&nbsp;</p>  </strong>
