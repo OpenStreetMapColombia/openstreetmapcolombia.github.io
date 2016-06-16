@@ -4,7 +4,7 @@ title:      "Estuvimos dentro del Volcán Cerro Machín ! "
 subtitle:   "Socialización de la Unidad de Mapeo Humanitario con la comunidad de Toche, Ibagué, Tolima"
 date:       2016-06-10 12:00:00
 author:     "@fredy_rivera"
-header-img: "https://tupale.co/milfs/images/secure/?file=full/cdf49c94ea93f8d6a10f4d53cc6e9eaf.jpg"
+header-img: "img/20160610_110445.jpg"
 ---
 <div class="container-fluid">
         <span class="badge"> UMH, Volcán Cerro Machin, Corregimiento de Toche  </span>
