@@ -8,7 +8,7 @@ header-img: "https://tupale.co/milfs/images/secure/?file=full/cdf49c94ea93f8d6a1
 ---
 <div class="container-fluid">
         <span class="badge"> UMH, Volcán Cerro Machin, Corregimiento de Toche  </span>
-	<h2 id="estuvimos-dentro-del-volc-n-cerro-mach-n-general"> Estuvimos dentro del Volcán Cerro Machín ! | <small> General </small></h2>
+	<h2 id="estuvimos-dentro-del-volc-n-cerro-mach-n-general"> Estuvimos dentro del Volcán Cerro Machín !</h2>
 		<div style="max-width:20%; float:left; margin: 10px;">
 		  
 		</div>
