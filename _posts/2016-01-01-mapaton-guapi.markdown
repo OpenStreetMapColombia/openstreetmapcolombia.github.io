@@ -2,7 +2,7 @@
 layout:     post
 title:      "Datos geográficos abiertos para el control de la malaria"
 subtitle:   "Mapatón por Guapi"
-date:       2016-01-01 12:00:00
+date:       2016-07-13 12:00:00
 author:     "Carlos Felipe Castillo"
 header-img: "img/guapi.jpg"
 ---
@@ -16,9 +16,9 @@ El trazado de los edificios que se realice como parte de este proyecto será uti
 <br>
 Puedes contribuir y seguir el desarrollo de esta actividad orientada en la lucha de pre-eliminación de la malaria en Guapi, consultando la <a href="http://tareas.openstreetmap.co/project/26">Tarea 26</a>
 <br>
-<br></p>
 <br>
-Esta actividad cuenta con la participación de los siguientes actores y esperamos contar con tu apoyo:</p>
+<br>
+Esta actividad cuenta con la participación de los siguientes actores y esperamos contar con tu apoyo:
 <ul>
 	<h5>Organizan:</h5>
 	<li>OpenStreetMap Colombia</li>
