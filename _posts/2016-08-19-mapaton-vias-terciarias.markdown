@@ -7,8 +7,6 @@ author:     "Humberto Yances"
 header-img: "img/youthmappers_colombia.jpg"
 ---
 
-[﻿BANNER DE LOGOS YouthMappers - USAID -  osm_small.png]
-
 - - -
 
 <h3>Introducción</h3>
@@ -26,7 +24,7 @@ Tras finalizar la jornada se evaluarán las estadísticas de edición de cada pa
 <li>
 <a href="http://export.hotosm.org/en/exports/dca66522-667c-4380-bac1-6a9319a58be2/" target="_blank">http://export.hotosm.org/en/exports/dca66522-667c-4380-bac1-6a9319a58be2/</a>
 </li>
-
+</ul>
 
 <h3>Competencia</h3>
 <p align="justify">Los grupos de estudiantes y estudiantes/docentes miembros de la comunidad OSM Colombia inscritos, estarán participando en una competencia por la mayor cantidad y calidad en los datos geográficos creados.  Se mapearan los siguientes elementos:
@@ -113,3 +111,8 @@ Es requisito para la inscripción ingresar el nombre de usuario de OpenStreetMap
 
 
 <em>Cierre de inscripciones: jueves 25 de agosto 11:59 PM (-5 UTC)</em>
+
+- - -
+Gracias al apoyo de:
+<br>
+<img src="{{ site.baseurl }}/img/auspicio.jpg" alt="Con el auspicio">
