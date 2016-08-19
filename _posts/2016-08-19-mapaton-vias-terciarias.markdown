@@ -104,15 +104,17 @@ Estaremos trazando sobre el <a href="http://tareas.openstreetmap.co/project/12" 
 
 
 <h3>Inscripciones</h3>
-Es requisito para la inscripción ingresar el nombre de usuario de OpenStreetMap por cada uno de los participantes.  Cada grupo estará conformado por al menos dos (2) integrantes y un máximo de seis (6).
+<p align="justify">Es requisito para la inscripción ingresar el nombre de usuario de OpenStreetMap por cada uno de los participantes.  Cada grupo estará conformado por al menos dos (2) integrantes y un máximo de seis (6).
 
 
 <ul><li>Por favor diligencia el <a href="https://goo.gl/forms/LzRPEZABW2MvAAzh1" target="_blank">Formulario de Inscripción</a></li></ul>
 
 
 <em>Cierre de inscripciones: jueves 25 de agosto 11:59 PM (-5 UTC)</em>
+</p>
 
 - - -
+
 Gracias al apoyo de:
 <br>
-<img src="{{ site.baseurl }}/img/auspicio.jpg" alt="Con el auspicio">
+<img src="{{ site.baseurl }}/img/auspicio.jpg" alt="auspiciadores">
