@@ -113,8 +113,7 @@ Estaremos trazando sobre el <a href="http://tareas.openstreetmap.co/project/12" 
 <em>Cierre de inscripciones: jueves 25 de agosto 11:59 PM (-5 UTC)</em>
 </p>
 
-- - -
+<hr>
 
-Gracias al apoyo de:
-<br>
-<img src="{{ site.baseurl }}/img/auspicio.jpg" alt="auspiciadores">
+<p align="center"><strong>Gracias al apoyo de:</strong><br>
+<img src="{{ site.baseurl }}/img/auspicio.jpg" alt="auspiciadores"></p>
