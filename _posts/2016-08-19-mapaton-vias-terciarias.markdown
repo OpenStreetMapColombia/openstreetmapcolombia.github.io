@@ -21,12 +21,12 @@ Durante décadas diferentes zonas del país se han caracterizado por tener poca 
 <br><br>
 Participarán nodos de <a href="http://youthmappers.org/" target="_blank">YouthMappers</a>, una red internacional de estudiantes universitarios que realizan eventos de mapeo desde sus distintos capítulos alrededor de varios países, a la vez que otros grupos de universidades de Colombia que deseen registrarse para participar en la competencia.
 <br><br>
-Tras finalizar la jornada se evaluarán las estadísticas de edición de cada participante y grupo registrado para la selección de los ganadores, los primeros puestos ganarán un viaje a Manaure, La Guajira, para acompañar al nodo “Mesh” de YouthMappers en la Universidad de La Guajira, donde se realizará una actividad para aprender a mapear en campo entre el 7 y 9 de septiembre.  Manaure se ha visto fuertemente afectada por la sequía, es el municipio con mayores tasas en la desnutrición y morbilidad infantil.  Es por ello que seguimos apoyándolos con esta nueva serie de <a href="https://twitter.com/hashtag/mapatonxguajira" target="_blank">#MapatonXLaGuajira</a>, datos que apropiaran los grupos de investigación y toda organización interesada, los cuales se pueden descargar desde:
+Tras finalizar la jornada se evaluarán las estadísticas de edición de cada participante y grupo registrado para la selección de los ganadores, los primeros puestos ganarán un viaje a Manaure, La Guajira, para acompañar al nodo “Mesh” de YouthMappers en la Universidad de La Guajira, donde se realizará una actividad para aprender a mapear en campo entre el 7 y 9 de septiembre.  Manaure se ha visto fuertemente afectada por la sequía, es el municipio con mayores tasas en la desnutrición y morbilidad infantil.  Es por ello que seguimos apoyándolos con esta nueva serie de <a href="https://twitter.com/hashtag/mapatonxguajira" target="_blank">#MapatonXLaGuajira</a>, datos que apropiaran los grupos de investigación y toda organización interesada, los cuales se pueden descargar desde:</p>
 <ul>
 <li>
 <a href="http://export.hotosm.org/en/exports/dca66522-667c-4380-bac1-6a9319a58be2/" target="_blank">http://export.hotosm.org/en/exports/dca66522-667c-4380-bac1-6a9319a58be2/</a>
 </li>
-</p>
+
 
 <h3>Competencia</h3>
 <p align="justify">Los grupos de estudiantes y estudiantes/docentes miembros de la comunidad OSM Colombia inscritos, estarán participando en una competencia por la mayor cantidad y calidad en los datos geográficos creados.  Se mapearan los siguientes elementos:
@@ -57,25 +57,21 @@ Tras finalizar la jornada se evaluarán las estadísticas de edición de cada pa
 <li><a href="https://www.youtube.com/user/hotosm/videos" target="_blank">https://www.youtube.com/user/hotosm/videos</a> (en youtube existe una gran cantidad de tutoriales)</li>
 </ul>
 
-
 <h3>Premios</h3>
-<p align="justify">Los premios se dividen en dos categorías y serán definidos por un cuerpo de jurados.
-<br><br>
+<p align="justify">Los premios se dividen en dos categorías y serán definidos por un cuerpo de jurados.</p>
 <h4><strong>Categor&iacute;as</strong></h4>
 <em>Mejor mapero:</em>
 <ol>
-<li><strong>1. Primer puesto:</strong> viaje a Manaure, La Guajira para participar en la actividad de campo + GPS;</li>
-<li><strong>2. Segundo puesto:</strong> viaje a Manaure, La Guajira para participar en la actividad de campo;</li>
-<li><strong>3. Tercer puesto:</strong> 1 Tablet.</li>
+<li><strong>Primer puesto:</strong> viaje a Manaure, La Guajira para participar en la actividad de campo + GPS;</li>
+<li><strong>Segundo puesto:</strong> viaje a Manaure, La Guajira para participar en la actividad de campo;</li>
+<li><strong>Tercer puesto:</strong> 1 Tablet.</li>
 </ol>
-
 <em>Mejor equipo:</em>
 <ol>
-<li><strong>1. Primer puesto:</strong> 1 GPS, 1 Tablet, 1 Smartphone;</li>
-<li><strong>2. Segundo puesto:</strong> 1 Tablet, 1 Smartphone;</li>
-<li><strong>3. Tercer puesto:</strong> 1 Tablet.</li>
+<li><strong>Primer puesto:</strong> 1 GPS, 1 Tablet, 1 Smartphone;</li>
+<li><strong>Segundo puesto:</strong> 1 Tablet, 1 Smartphone;</li>
+<li><strong>Tercer puesto:</strong> 1 Tablet.</li>
 </ol>
-</p>
 <h3>Jurado y selección de ganadores</h3>
 <p align="justify">El jurado internacional está conformado por tres maperos destacados en las comunidades de OpenStreetMap de sus países y América Latina:
 <br><br>
@@ -113,7 +109,7 @@ Estaremos trazando sobre el <a href="http://tareas.openstreetmap.co/project/12" 
 Es requisito para la inscripción ingresar el nombre de usuario de OpenStreetMap por cada uno de los participantes.  Cada grupo estará conformado por al menos dos (2) integrantes y un máximo de seis (6).
 
 
-Por favor diligencia el <a href="https://goo.gl/forms/LzRPEZABW2MvAAzh1" target="_blank">Formulario de Inscripción</a>
+<ul><li>Por favor diligencia el <a href="https://goo.gl/forms/LzRPEZABW2MvAAzh1" target="_blank">Formulario de Inscripción</a></li></ul>
 
 
 <em>Cierre de inscripciones: jueves 25 de agosto 11:59 PM (-5 UTC)</em>
