@@ -10,6 +10,7 @@ url: "http://blog.openstreetmap.co"
 twitter_username: OpenStreetMapCO
 github_username:  OpenStreetMapColombia
 facebook_username:  groups/98009745459
+telegram_username: osmco
 
 # Build settings
 markdown: kramdown
@@ -23,8 +24,8 @@ exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md", "
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
 #
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-71933255-1'
+#analytics :
+#  provider : google
+#  google :
+#      tracking_id : 'UA-71933255-1'
 
