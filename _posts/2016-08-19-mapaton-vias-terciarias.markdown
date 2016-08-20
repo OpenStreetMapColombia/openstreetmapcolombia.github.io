@@ -74,18 +74,18 @@ Tras finalizar la jornada se evaluarán las estadísticas de edición de cada pa
 <table>
 <tr>
 <td><em>Marco Antonio Frias</em></td>
-<td><strong>Bolivia</strong></td>
 <td><a href="https://twitter.com/51114u9" target="_blank">@51114u9</a></td>
+<td><strong>Bolivia</strong></td>
 </tr>
 <tr>
 <td><em>Julio May</em></td>
-<td><strong>Costa Rica</strong></td>
 <td><a href="https://twitter.com/julio_may" target="_blank">@julio_may</a></td>
+<td><strong>Costa Rica</strong></td>
 </tr>
 <tr>
 <td><em>Fredy Rivera</em></td>
-<td><strong>Colombia</strong></td>
 <td><a href="https://twitter.com/fredy_rivera" target="_blank">@fredy_rivera</a></td>
+<td><strong>Colombia</strong></td>
 </tr>
 </table>
 <em>La selección de ganadores será publicada en el Blog de OSM Colombia el d&iacute;a 30 de agosto.</em>
@@ -94,7 +94,7 @@ Tras finalizar la jornada se evaluarán las estadísticas de edición de cada pa
 Viernes 26 de agosto, de 8:00 AM a 12:15 PM
 <ul>
 <li><strong>Nodo de emisión:</strong> Laboratorio de Cartografía - Universidad de Los Andes. <a href="http://osm.org/go/YJ5iZZxjN?m=" target="_blank">Carrera 1 No. 18A 10 Edificio Franco, Bogotá, Colombia</a>;</li>
-<li><strong>¿Cómo organizar tu nodo de mapat&oacute;n?: </strong> es esta p&acute;gina del proyecto Missing Maps podr&acute;s encontrar amplios detalles sobre <a href="http://www.missingmaps.org/es/organizar/" target="_blank">c&oacute;mo hacerlo</a>.  No tiene que ser algo tan formal, es una reuni&oacute;n de compañeros para trazar remotamente en un caf&eacute;, pizzer&iacute;a o sal&oacute;n, tal como lo muestra la imagen en la <a href="http://wiki.openstreetmap.org/wiki/ES:Mapathon" target="_blank">Wiki de OSM</a>.</li>
+<li><strong>¿Cómo organizar tu nodo de mapat&oacute;n?: </strong> es esta p&aacute;gina del proyecto Missing Maps podr&aacute;s encontrar amplios detalles sobre <a href="http://www.missingmaps.org/es/organizar/" target="_blank">c&oacute;mo hacerlo</a>.  No tiene que ser algo tan formal, es una reuni&oacute;n de compañeros para trazar remotamente en un caf&eacute;, pizzer&iacute;a o sal&oacute;n, tal como lo muestra la imagen en la <a href="http://wiki.openstreetmap.org/wiki/ES:Mapathon" target="_blank">Wiki de OSM</a>.</li>
 </ul>
 
 Estaremos trazando sobre el <a href="http://tareas.openstreetmap.co/project/12" target="_blank">proyecto#12 del Gestor de Tareas TM-CO</a>, el cu&aacute;l será publicado el viernes 26 de agosto.
