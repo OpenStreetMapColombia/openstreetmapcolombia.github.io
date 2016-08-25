@@ -29,3 +29,4 @@ exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md", "
 #  google :
 #      tracking_id : 'UA-71933255-1'
 
+timezone: America/Bogota
