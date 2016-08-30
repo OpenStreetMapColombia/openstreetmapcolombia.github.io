@@ -25,10 +25,11 @@ En general participaron 35 usuarios de OSM, pero de los 56 participantes inscrit
 Los grupos participantes editaron 42.575 objetos (76%), mientras que el total de participantes editó 55.714 objetos.  En total se crearon 2.275 vías, de las cuales 1.750 (77%) fueron creadas por los participantes inscritos en la competencia.  Todas las ediciones se subieron a la base de datos de OSM en un total de 204 changesets.
 
 <h3><strong>Antes y después</strong></h3>
-http://osm-analytics.org/#/compare/polygon:zvk_Mcnfs%40oTnf_%40%7DnDf%7Df%40crl%40lXgaKafr%40fsDeo%5Dw%7BOmqZi%7DLm%60c%40mgJ_pp%40xiKmiRtiVtdKfoQf%7BEtqGxwUrfQ%7CjW/2016...now/highways
+Una gráfica sobre el antes y el despues puede ser vista en <a href="http://osm-analytics.org/#/compare/polygon:zvk_Mcnfs%40oTnf_%40%7DnDf%7Df%40crl%40lXgaKafr%40fsDeo%5Dw%7BOmqZi%7DLm%60c%40mgJ_pp%40xiKmiRtiVtdKfoQf%7BEtqGxwUrfQ%7CjW/2016...now/highways" target="_blank">OSM-Analytics</a>.
 
-<h3><strong>Validación</strong></h3>
-Sí por favor!  Son bienvenidos a contribuir con las validaciones, recomendando una lectura previa a las instrucciones del proyecto.
+<h3><strong>Validaciones!</strong></h3>
+Validadores con experiencia son bienvenidos a contribuir; aunque el proyecto está completado en un 100%, aun requerimos este importante paso.  <a href="http://tareas.openstreetmap.co/project/12" target="_blank">Proyecto#12</a>
+
 
 <hr>
 
