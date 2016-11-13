@@ -20,7 +20,7 @@ En el desarrollo de las actividades del Labicco, queda evidenciada la necesidad 
 <br>
 <img src="{{ site.baseurl }}/img/info.jpg" align="center">
 <br>
-80 estudiantes de instituto Camilo Torres, utilizando mapas impresos desde <a href="http://fieldpapers.org/?locale=es">fieldpapers se identifico y realizo 185 cambios y se modificarón 58 datos eliminandolos de la base de datos debidoa que correspondian a una cancha de béisbol que ya no existe, en su lugar se construyo el barrio Villas de Alicante, este cambio fue identificado como el problema mas sentido por lo jóvenes del sector.
+80 estudiantes de instituto Camilo Torres, utilizando mapas impresos desde <a href="http://fieldpapers.org/?locale=es">fieldpapers</a> los jovenes identificarón y realizarón 185 cambios y se modificarón 58 datos que correspondian a una cancha de béisbol que ya no existe, en su lugar se construyo el barrio Villas de Alicante, este cambio fue identificado como el problema mas sentido por lo jóvenes del sector.
 <br>
 <img src="{{ site.baseurl }}/img/Estudiantes1.jpg" align="center">
 <br>
