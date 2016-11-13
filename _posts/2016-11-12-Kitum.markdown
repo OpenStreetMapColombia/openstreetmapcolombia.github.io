@@ -4,7 +4,7 @@ title:    "Openstreetmap, punta de lanza en la iniciativa KitUm."
 subtitle:   "Estoy aquí para tí"
 date:       2016-11-12 19:00:00
 author:     "Carlos Felipe Castillo"
-header-img: "img/kitum.jpg"
+header-img: "img/KITUM.jpg"
 ---
 <h1>Openstreetmap, punta de lanza en la iniciativa KitUm.</h1>
 <br>
