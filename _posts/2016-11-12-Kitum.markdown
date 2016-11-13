@@ -11,19 +11,21 @@ header-img: "img/kitum.jpg"
 
 <p align="justify">
 
-La fundación Openstreetmap Colombia participó activamente en la iniciativa [SOS Disaster](http://ciudadania.sosdisaster.org/), presentada por [Luis Hernando Aguilar](http://www.openstreetmap.org/user/luishernando) en marco del [3er Laboratorio de innovación ciudadana - Labicco](http://www.ciudadania20.org/3er-laboratorio-iberoamericano-de-innovacion-ciudadana-labicco/) de la Secretaría General Iberoamericana, realizado en Cartagena de Indias del 9 al 23 de Octubre de 2016, cuyo objetivo era promover la innovación ciudadana en Iberoamérica con el fin de fomentar la transformación social, la gobernanza democrática, y el desarrollo social, cultural y económico. 
-Como resultado del trabajo en el Labicco nace [KITUM](http://kitum.org/), que significa “Estoy aquí para tí” en lengua indígena Wounaan, es una plataforma destinada a recopilar y diseminar los conocimientos y las buenas prácticas de voluntarios digitales que han ayudado en la respuesta a grandes emergencias en todo el mundo. Incluidos los terremotos de Haití y Chile en 2010, la crisis de Libia, las inundaciones en Colombia, la respuesta del tifón Haiyan/Yolanda en Filipinas, la respuesta al brote de Ebola en África Occidental y el terremoto de Ecuador en 2016.
+La fundación Openstreetmap Colombia participó activamente en la iniciativa <a href="http://ciudadania.sosdisaster.org/">SOS Disaster</a>, presentada por <a href="http://www.openstreetmap.org/user/luishernando">Luis Hernando Aguilar</a> en marco del <a href="http://www.ciudadania20.org/3er-laboratorio-iberoamericano-de-innovacion-ciudadana-labicco/">3er Laboratorio de innovación ciudadana - Labicco</a> de la Secretaría General Iberoamericana, realizado en Cartagena de Indias del 9 al 23 de Octubre de 2016, cuyo objetivo era promover la innovación ciudadana en Iberoamérica con el fin de fomentar la transformación social, la gobernanza democrática, y el desarrollo social, cultural y económico. 
+Como resultado del trabajo en el Labicco nace <a href="http://kitum.org/">KITUM</a>, que significa “Estoy aquí para tí” en lengua indígena Wounaan, Kitum es una plataforma destinada a recopilar y diseminar los conocimientos y las buenas prácticas de voluntarios digitales que han ayudado en la respuesta a grandes emergencias en todo el mundo. Incluidos los terremotos de Haití y Chile en 2010, la crisis de Libia, las inundaciones en Colombia, la respuesta del tifón Haiyan/Yolanda en Filipinas, la respuesta al brote de Ebola en África Occidental y el terremoto de Ecuador en 2016.
 <br>
 
 <img src="{{ site.baseurl }}/img/PresentacionOSM.jpg" align="center"  alt="">
 <br>
 <img src="{{ site.baseurl }}/img/PresentacionOSM2.jpg" align="center"  alt="">
 <br>
-En el desarrollo de las actividades del Labicco, queda evidenciada la necesidad de fortalecer los procesos de mapeo humanitario, como pilar fundamental para el apoyo de las acciones en campo de los organismos humanitarios. Como prueba de campo se realizo el mapeo del sector  [El Pozón, Cartagena](http://osm.org/go/YNxyfRaV--) con 80 estudiantes de instituto Camilo Torres, quienes realizaron 185 cambios y eliminaron 58 datos correspondientes a una cancha de béisbol que ya no existe, en su lugar se construyo el barrio Villas de Alicante, que fue identificado como el problema mas sentido por lo jóvenes del sector.
+En el desarrollo de las actividades del Labicco, queda evidenciada la necesidad de fortalecer los procesos de mapeo humanitario, como pilar fundamental para el apoyo de las acciones en campo de los organismos humanitarios. Como prueba de campo se realizo el mapeo del sector <a href="http://osm.org/go/YNxyfRaV--">El Pozón, Cartagena</a> con 80 estudiantes de instituto Camilo Torres, quienes realizaron 185 cambios y eliminaron 58 datos correspondientes a una cancha de béisbol que ya no existe, en su lugar se construyo el barrio Villas de Alicante, que fue identificado como el problema mas sentido por lo jóvenes del sector.
 <br>
 
 <img src="{{ site.baseurl }}/img/Estudiantes1.jpg" align="center">
+<br>
 <img src="{{ site.baseurl }}/img/Estudiantes2.jpg" align="center">
+<br>
 <img src="{{ site.baseurl }}/img/Estudiantes3.jpg" align="center">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
