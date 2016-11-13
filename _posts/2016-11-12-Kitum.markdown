@@ -9,8 +9,9 @@ header-img: "img/KITUM.jpg"
 <h1>Openstreetmap, punta de lanza en la iniciativa KitUm.</h1>
 <br>
 <p align="justify">
-La fundación Openstreetmap Colombia participó activamente en la iniciativa <a href="http://ciudadania.sosdisaster.org/">SOS Disaster</a>, presentada por <a href="http://www.openstreetmap.org/user/luishernando">Luis Hernando Aguilar</a> en marco del <a href="http://www.ciudadania20.org/3er-laboratorio-iberoamericano-de-innovacion-ciudadana-labicco/">3er Laboratorio de innovación ciudadana - Labicco</a> organizado por la Secretaría General Iberoamericana en Cartagena de Indias del 9 al 23 de Octubre de 2016, cuyo objetivo era promover la innovación ciudadana en Iberoamérica con el fin de fomentar la transformación social, la gobernanza democrática, y el desarrollo social, cultural y económico. 
-Como resultado del trabajo en el Labicco nace <a href="http://kitum.org/">KITUM</a>, que significa “Estoy aquí para tí” en lengua indígena Wounaan, Kitum es una plataforma destinada a recopilar y diseminar los conocimientos y las buenas prácticas de voluntarios digitales que han ayudado en la respuesta a grandes emergencias en todo el mundo. Incluidos los terremotos de Haití y Chile en 2010, la crisis de Libia, las inundaciones en Colombia, la respuesta del tifón Haiyan/Yolanda en Filipinas, la respuesta al brote de Ebola en África Occidental y el terremoto de Ecuador en 2016.
+La fundación Openstreetmap Colombia participó activamente en la iniciativa <a href="http://ciudadania.sosdisaster.org/">SOS Disaster</a>, presentada por <a href="http://www.openstreetmap.org/user/luishernando">Luis Hernando Aguilar</a> en marco del <a href="http://www.ciudadania20.org/3er-laboratorio-iberoamericano-de-innovacion-ciudadana-labicco/">3er Laboratorio de innovación ciudadana - Labicco</a> organizado por la Secretaría General Iberoamericana en Cartagena de Indias del 9 al 23 de Octubre de 2016, cuyo objetivo era promover la innovación ciudadana en Iberoamérica con el fin de fomentar la transformación social, la gobernanza democrática, y el desarrollo social, cultural y económico.
+<br>
+Como resultado del trabajo en el Labicco nace <a href="http://kitum.org/">KITUM</a>, que significa “Estoy aquí para tí” en lengua indígena Wounaan, Kitum es una plataforma destinada a recopilar y diseminar los conocimientos y las buenas prácticas de voluntarios digitales que han ayudado en la respuesta a grandes emergencias en todo el mundo, entre ellas las inundaciones en Colombia en 2010, los terremotos de Haití y Chile en 2010, la crisis de Libia, la respuesta del tifón Haiyan/Yolanda en Filipinas, la respuesta al brote de Ebola en África Occidental y el terremoto de Ecuador en 2016.
 <br>
 <img src="{{ site.baseurl }}/img/PresentacionOSM.jpg" align="center">
 <br>
@@ -20,7 +21,7 @@ En el desarrollo de las actividades del Labicco, queda evidenciada la necesidad 
 <br>
 <img src="{{ site.baseurl }}/img/info.jpg" align="center">
 <br>
-80 estudiantes de instituto Camilo Torres, utilizando mapas impresos desde <a href="http://fieldpapers.org/?locale=es">fieldpapers</a> los jovenes identificarón y realizarón 185 cambios y se modificarón 58 datos que correspondian a una cancha de béisbol que ya no existe, en su lugar se construyo el barrio Villas de Alicante, este cambio fue identificado como el problema mas sentido por lo jóvenes del sector.
+80 estudiantes de instituto Camilo Torres, utilizando mapas impresos desde <a href="http://fieldpapers.org/?locale=es">fieldpapers</a> identificarón y realizarón 185 cambios y se modificarón 58 datos que correspondian a una cancha de béisbol que ya no existe, en su lugar se construyo el barrio Villas de Alicante, este cambio fue identificado como el problema mas sentido por lo jóvenes del sector.
 <br>
 <img src="{{ site.baseurl }}/img/Estudiantes1.jpg" align="center">
 <br>
