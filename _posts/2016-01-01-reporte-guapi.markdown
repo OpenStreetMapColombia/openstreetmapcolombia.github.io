@@ -11,7 +11,7 @@ header-img: "img/guapi1.jpg"
 
 <p align="justify">
 
-OpenStreetMap Colombia anunciaba hace una semana el apoyo a la iniciativa de pre eliminación de la malaria en sitios de baja transmisión, un proyecto de vanguardia en  salud pública en el país, liderado por la <a href="http://saludcauca.gov.co/">Secretaria de Salud del Cauca</a> en convenio con la <a href="http://unal.edu.co/">Universidad Nacional de Colombia</a> y el <a href="http://www.sanger.ac.uk/">Wellcome Trust Sanger Institute</a> en el Municipio de Guapi, Cauca, ubicado en el Pacífico colombiano, en la subregión de Suramérica.
+OpenStreetMap Colombia anunció el apoyo a la iniciativa #MapatónXGuapi que transcurrio del 11 al 15 de Julio de 2016 como apoyo a las acciones de levantamiento de datos geográficos libre en la pre eliminación de la malaria en sitios de baja transmisión, como parte del proyecto de vanguardia en salud pública en el país, liderado por la <a href="http://saludcauca.gov.co/">Secretaria de Salud del Cauca</a> en convenio con la <a href="http://unal.edu.co/">Universidad Nacional de Colombia</a> y el <a href="http://www.sanger.ac.uk/">Wellcome Trust Sanger Institute</a> en el Municipio de Guapi, Cauca, ubicado en el Pacífico colombiano, en la subregión de Suramérica.
 
 <br>
 
