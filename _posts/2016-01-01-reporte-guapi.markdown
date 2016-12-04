@@ -21,6 +21,10 @@ En el desarrollo de la jornada, el proyecto "Herramientas, formación y redes en
 <br>
 <img src="{{ site.baseurl }}/img/GuapiC1.jpg" align="center"  alt="">
 <br>
+Se realizo validación de datos a nivel de calle utilizando la aplicación <a href="https://www.mapillary.com/"> Mapillary</a> y como resultado tenemos la infomación levantada desde un recorrido por el barrio Santa Mónica:
+<br>
+<iframe width="800" height="600" src="https://embed-v1.mapillary.com/embed?version=1&filter=%5B%22all%22%5D&map_filter=%5B%22all%22%5D&image_key=jWoBD0qp8bXpi-EBjZCTUQ&client_id=VkVobklZOThHWHVIWXhhRG9paTN4dzplY2U3ZWJkM2E5MzMyZWM1&style=classic" frameborder="0"></iframe>
+<br>
 Los datos generados en OSM como datos geográficos abiertos estarán a disposición bajo la licencia ODbL, para las organizaciones académicas, humanitarias, de gestión del riesgo, de planeación urbana u ONG's que puedan usar estos datos para sus objetivos.  
 
 Agradecemos una vez más el esfuerzo del voluntariado de openstreetmap y a la comunidad de Guapi, quienes participaron en el desarrollo de esta tarea que fortalece la iniciativa de eliminación de la malaria en Colombia, muy pronto esperamos compartirles más noticias.
