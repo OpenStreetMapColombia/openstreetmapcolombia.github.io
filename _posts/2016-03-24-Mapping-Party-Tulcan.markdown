@@ -4,7 +4,7 @@ title:      "Mapping party del morro de Tulcán de Popayán"
 subtitle:   "#MappingPartyTulcán"
 date:       2017-03-25 04:00:00
 author:     "Carlos Felipe Castillo"
-header-img: "img/Flor.jpg"
+header-img: "img/Flor1.jpg"
 ---
 <h1>Mapping party del morro de Tulcán de Popayán</h1>
 <br>
