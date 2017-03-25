@@ -6,7 +6,7 @@ date:       2017-03-25 04:00:00
 author:     "Carlos Felipe Castillo"
 header-img: "img/Tulcan.jpg"
 ---
-<h1>Datos geográficos abiertos para el control de la malaria en Guapi, Cauca</h1>
+<h1>Mapping party del morro de Tulcán de Popayán</h1>
 <br>
 El próximo 8 de abril, se llevará a cabo el mapping party del morro de Tulcán de Popayán, donde vamos a trabajar en la emblemática pirámide de la ciudad blanca de Colombia.
 Un trabajo generado desde la iniciativa la <a href="https://www.openstreetmap.org/user/kaxtillo/diary/40741">#ScoutMappers</a>, implementada desde la región Cauca perteneciente a la Asociación Scout de Colombia, aprenderemos a utilizar todas la herramientas de captura y edición de información en Openstreetmap, realizando el ejercicio de trazado de este alegórico símbolo de Popayán.
