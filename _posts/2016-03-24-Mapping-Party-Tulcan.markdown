@@ -6,7 +6,7 @@ date:       2017-03-25 04:00:00
 author:     "Carlos Felipe Castillo"
 header-img: "img/Flor.jpg"
 ---
-<h1>**Mapping party del morro de Tulcán de Popayán**</h1>
+<h1>Mapping party del morro de Tulcán de Popayán</h1>
 <br>
 El próximo 8 de abril, se llevará a cabo el mapping party del morro de Tulcán de Popayán, donde vamos a trabajar en la emblemática pirámide de la ciudad blanca de Colombia.
 <br>
