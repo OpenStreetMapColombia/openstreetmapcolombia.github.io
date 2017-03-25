@@ -1,5 +1,15 @@
 ---
 layout:     post
+</pre>
+   </td>
+   <td class="get">
+<css>
+body {
+    color: #555753;
+    background: #fff;
+    margin: 0;
+    padding: 5px;
+}
 title:      "Mapping party del morro de Tulcán de Popayán"
 subtitle:   "#MappingPartyTulcán"
 date:       2017-03-25 04:00:00
