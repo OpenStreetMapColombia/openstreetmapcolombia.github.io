@@ -16,5 +16,7 @@ Aprovecharemos las imágenes aéreas que fueron facilitadas generosamente por la
 <br>
 Todos los Rovers y Caminantes, estan cordialmente invitados a obtener su insignia.
 <br>
+"La ambición de hacer el bien es la única ambición que cuenta y que ayuda a obtener la felicidad" - Baden-Powell
+<br>
 <img src="{{ site.baseurl }}/img/Tulcan.jpg" align="center"  alt="">
 <br>
