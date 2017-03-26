@@ -21,6 +21,8 @@ En el desarrollo de la jornada, el proyecto "Herramientas, formación y redes en
 <br>
 <img src="{{ site.baseurl }}/img/GuapiC1.jpg" align="center"  alt="">
 <br>
+<img src="{{ site.baseurl }}/img/ScoutGuapi.jpg" align="center"  alt="">
+<br>
 Se realizo validación de datos a nivel de calle utilizando la aplicación <a href="https://www.mapillary.com/"> Mapillary</a> y como resultado tenemos la infomación levantada desde un recorrido por el barrio Santa Mónica:
 <br>
 <iframe width="800" height="600" src="https://embed-v1.mapillary.com/embed?version=1&filter=%5B%22all%22%5D&map_filter=%5B%22all%22%5D&image_key=jWoBD0qp8bXpi-EBjZCTUQ&client_id=VkVobklZOThHWHVIWXhhRG9paTN4dzplY2U3ZWJkM2E5MzMyZWM1&style=classic" frameborder="0"></iframe>
