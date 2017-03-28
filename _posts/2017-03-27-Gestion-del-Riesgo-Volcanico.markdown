@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Gestión del Riesgo Volcánico."
+title:      "Semana de la reducción del riesgo"
 subtitle:   "Volcán Cerro Machín"
 date:       2017-03-27 04:00:00
 author:     "Nohora Fernanda Castellanos Aguilar"
