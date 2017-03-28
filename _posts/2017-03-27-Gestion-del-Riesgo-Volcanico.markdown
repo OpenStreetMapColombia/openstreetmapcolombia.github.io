@@ -2,7 +2,7 @@
 layout:     post
 title:      "Gestión del Riesgo Volcánico."
 subtitle:   "Volcán Cerro Machín"
-date:       2016-03-27 04:00:00
+date:       2017-03-27 04:00:00
 author:     "Nohora Fernanda Castellanos Aguilar"
 header-img: "img/VCM.jpg"
 ---
