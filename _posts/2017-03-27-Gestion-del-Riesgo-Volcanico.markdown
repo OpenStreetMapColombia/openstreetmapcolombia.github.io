@@ -18,3 +18,6 @@ Este trabajo es realizado empleando la unidad de vuelo no tripulado UAV (drone) 
 Los logros obtenidos son expuestos en la celebración de la <a href="http://portal.gestiondelriesgo.gov.co/blogsrr/_layouts/15/start.aspx#/Lists/EntradasDeBlog/Post.aspx?ID=80">Semana de la Reducción del Riesgo</a> en Ibagué en el mes de octubre de 2016 siendo la Fundación OpenStreetMap Colombia, invitada por parte del comité Departamental de Gestión de Riesgos de Desastres del Tolima, dentro de las experiencias exitosas para este Departamento.
 <br>
 El fin último del ordenamiento del territorio que presenta mayor vulnerabilidad ante una posible erupción del Volcán Cerro Machín, es hacer que el área de influencia directa ante una posible erupción, sea parte del Sistema Nacional de Parques Nacionales Naturales, siendo este parte del Parque Nacional Natural Los Nevados.
+<br>
+<img src="{{ site.baseurl }}/img/Taller.jpg" align="center"  alt="">
+<br>
