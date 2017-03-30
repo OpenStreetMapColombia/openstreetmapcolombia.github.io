@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Mapping party del morro de Tulcán."
-subtitle:   "#MappingPartyTulcán"
+subtitle:   "#MappingPartyTulcan"
 date:       2017-03-25 04:00:00
 author:     "Carlos Felipe Castillo"
 header-img: "img/Flor1.jpg"
