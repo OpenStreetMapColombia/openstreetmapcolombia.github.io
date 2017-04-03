@@ -79,7 +79,7 @@ Por favor socialice en redes sociales:
 <span class="caption text-muted">Ven y contribuye </span>
 </p>
 <p>Comparte en redes sociales enviando el siguiente tuit:</p>
-<em>Activación mapeo humanitario #FuerzaMocoa #TodosConMocoa con @openstreetmapco  http://openstreetmapcolombia.github.io/2017/04/02/llamado-mocoa/ @openstreetmapco</em>
+<em>Activación mapeo humanitario #FuerzaMocoa #TodosConMocoa http://blog.openstreetmap.co/2017/04/02/llamado_mocoa/ @openstreetmapco</em>
 
 
 <script>
