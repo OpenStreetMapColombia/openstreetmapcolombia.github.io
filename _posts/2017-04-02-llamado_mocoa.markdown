@@ -7,7 +7,7 @@ author:     "Luis Miguel Sánchez"
 header-img: "img/llamado_mocoa.png"
 ---
 
-<p align="justify">    La comunidad Open Street Map Colombia lamenta los hechos ocurridos en Mocoa, Putumayo durante la noche del 31 de marzo al 1 de abril de 2017. Conociendo la importancia de los mapas como insumo indispensable para el manejo de la emergencia y posterior reconstrucción, ponemos a disposición de todos ustedes este trabajo en busca de coordinación con otras comunidades y voluntarios para tener un mayor impacto y pertinencia en la movilización ciudadana de manera organizada que en Colombia y en otras latitudes se ha venido sumando.
+<p align="justify">    La comunidad OpenStreetMap Colombia lamenta los hechos ocurridos en Mocoa, Putumayo durante la noche del 31 de marzo al 1 de abril de 2017. Conociendo la importancia de los mapas como insumo indispensable para el manejo de la emergencia y posterior reconstrucción, ponemos a disposición de todos ustedes este trabajo en busca de coordinación con otras comunidades y voluntarios para tener un mayor impacto y pertinencia en la movilización ciudadana de manera organizada que en Colombia y en otras latitudes se ha venido sumando.
 <br>
 <br>
 Como consecuencia de las lluvias presentadas el 31 de marzo en horas de la noche se desbordaron los ríos Mocoa, Sangoyaco y Mulato presentándose una avalancha en el municipio de Mocoa, capital del departamento. Hasta el momento se reporta la muerte de 254 personas, 203 heridos (71 menores) y 500 familias afectadas. El número de personas afectadas podría aumentar una vez se consolide la
@@ -47,12 +47,12 @@ Para los equipos locales sería importante contar con un mapa urbano (un *.jpg g
 	<li>Mapear las cuencas de los ríos (el área del lecho de río, con natural=scree) para dimensionar las zonas inundables/inundadas.</li>
 </ul>
 <br>
-<p align="justify"> Otros organismos de atención han solicitado de igualmanera cartografía actualizada, inicialmente compartimos con ustedes la tarea Todos con Mocoa que se creó a partir de una imagen satelital del 14 de marzo de 2017 con el objetivo de identificar la localización de las vías, ríos/arroyos y zonas residenciales antes de la emergencia. La idea es tener el mapa de Mocoa lo más actualizado posible para facilitar las labores de atención a la emergencia. La tarea <a href="http://tareas.openstreetmap.co/project/46">http://tareas.openstreetmap.co/project/46</a> cuenta con instrucciones para que cualquier persona que quiera colaborar, lo pueda hacer desde cualquier lugar con acceso a internet. Agradecemos la socialización de este acceso para que nos puedan ayudar la mayor cantidad de personas pero es necesaria la disposición de Imagenes pot-desastre para la actualización.
+<p align="justify"> Otros organismos de atención han solicitado de igualmanera cartografía actualizada, inicialmente compartimos con ustedes la tarea Todos con Mocoa que se creó a partir de una imagen satelital del 14 de marzo de 2017 con el objetivo de identificar la localización de las vías, ríos/arroyos y zonas residenciales antes de la emergencia. La idea es tener el mapa de Mocoa lo más actualizado posible para facilitar las labores de atención a la emergencia. La tarea <a href="http://tareas.openstreetmap.co/project/46">http://tareas.openstreetmap.co/project/46</a> cuenta con instrucciones para que cualquier persona que quiera colaborar, lo pueda hacer desde cualquier lugar con acceso a internet. Agradecemos la socialización de este acceso para que nos puedan ayudar la mayor cantidad de personas pero es necesaria la disposición de Imagenes post-desastre para la actualización.
 </p>
 <br>
 <ul>
 <h2>LLamado a la acción</h2>
-<li>Se necesita un minimo de USD $500 dolares para la logistica y el desplazamiento de dos integragrantes de la #UMH hasta lo zona y su estancia de aproximadamente 3 dias.</li>
+<li>Se necesita un minimo de USD $500 dolares para la logistica y el desplazamiento de dos integragrantes de la #UMH hasta lo zona y su estancia de aproximadamente 3 dias. Se pueden hacer consignaciones a la <strong>Cuenta de la Fundación OpenStreetMap Colombia Bancolombia Número 66770394261</strong></li>
 <li>Adquisición de Imagenes satelitales pre-y post desastre de la zona.</li>
 </ul>
 
