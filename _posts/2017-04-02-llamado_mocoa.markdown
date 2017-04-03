@@ -60,7 +60,7 @@ Para los equipos locales sería importante contar con un mapa urbano (un *.jpg g
 <p aign="justify"> Adicionalmente queremos conocer las necesidades que han identificado desde las entidades para que este trabajo sea de la mayor ayuda posible. También nos seria de ayuda la liberación de datos útiles para la elaboración de este proyecto; estamos por ejemplo necesitando imágenes georreferenciadas satelitales o de sobrevuelos de después de la emergencia que ayudarían a identificar preliminarmente los daños, las vías de acceso para atender la emergencia y priorizar las zonas que necesitan más ayuda.
 
 <br>
-Comunidad Open Street Map Colombia 
+Comunidad Openstreetmap Colombia 
 <br>
 </p>
 
