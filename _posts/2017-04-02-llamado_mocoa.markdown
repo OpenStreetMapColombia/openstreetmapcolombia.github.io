@@ -29,7 +29,7 @@ De acuerdo con los informes presentados por las autoridades municipales y depart
 <li><a href="https://soundcloud.com/rosa-cristina-parra/como-ayudar-a-mocoa-1330-domingo-2-de-abril">Cómo ayudar a Mocoa</a></li>
 <br>
 <li><a href="http://es.presidencia.gov.co/noticia/170402-A-254-asciende-cifra-de-victimas-fatales-en-Mocoa">Balance del Puesto de Mando Unificado 13:30 Domingo 2 de abril (Presidencia de Colombia)</a></li>
-<li><a href=""http://es.presidencia.gov.co/Audios/3129_AlocucionPresidenteMocoa_20170402.mp3>Alocución presidencial</a></li>
+<li><a href="http://es.presidencia.gov.co/Audios/3129_AlocucionPresidenteMocoa_20170402.mp3">Alocución presidencial</a></li>
 </ul>
 
 <br>
