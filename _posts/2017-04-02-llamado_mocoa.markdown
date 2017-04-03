@@ -7,7 +7,7 @@ author:     "Luis Miguel Sánchez"
 header-img: "img/llamado_mocoa.png"
 ---
 
-<p align="justify">    La comunidad Open Street Map Colombia lamenta los hechos ocurrido en Mocoa ,Putumayo durante la noche del 31 de marzo al 1 de abril de 2017. Conociendo la importancia de los mapas como insumo indispensable para el manejo de la emergencia y posterior reconstrucción, por ello ponemos a disposición de todos ustedes este trabajo para contar con más apoyo, coordinación con otras comunidades y voluntarios para tener un mayor impacto y pertinencia en la movilización ciudadana de manera organizada en Colombia y en otras latitudes que se ha venido sumando.
+<p align="justify">    La comunidad Open Street Map Colombia lamenta los hechos ocurridos en Mocoa,Putumayo durante la noche del 31 de marzo al 1 de abril de 2017. Conociendo la importancia de los mapas como insumo indispensable para el manejo de la emergencia y posterior reconstrucción, por ello ponemos a disposición de todos ustedes este trabajo para contar con más apoyo, coordinación con otras comunidades y voluntarios para tener un mayor impacto y pertinencia en la movilización ciudadana de manera organizada en Colombia y en otras latitudes que se ha venido sumando.
 <br>
 <br>
 <br>
