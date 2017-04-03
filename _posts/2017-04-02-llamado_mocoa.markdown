@@ -73,8 +73,8 @@ Comunidad Open Street Map Colombia
 <h2>Compartir</h2>
 <p align="justify">
 Por favor socialice en redes sociales:
-<a href="{{ site.baseurl }}/img/llamado_moocoa.png">
-    <img src="{{ site.baseurl }}/img/llamado_mocoa.png" alt="Descarga el flyer">
+<a href="{{ site.baseurl }}/img/llamado_mocoa.png">
+    <img src="{{ site.baseurl }}/img/llamado_mocoa.png" alt="Descarga el flyer">Descarga el flyer
 </a>
 <span class="caption text-muted">Ven y contribuye </span>
 </p>
