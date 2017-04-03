@@ -20,15 +20,19 @@ De acuerdo con los informes presentados por las autoridades municipales y depart
 <a href="https://www.humanitarianresponse.info/node/77/search?search=mocoa">https://www.humanitarianresponse.info/node/77/search?search=mocoa</a>
 <br>
 </p>
-Otros enlaces de interés:
-<b>
-<a href="http://portal.gestiondelriesgo.gov.co/Paginas/Noticias/2017/Atencion-en-Mocoa-continua-y-desde-ya-se-empieza-a-trabajar-en-la-recuperacion-y-reconstruccion.aspx">http://portal.gestiondelriesgo.gov.co/Paginas/Noticias/2017/Atencion-en-Mocoa-continua-y-desde-ya-se-empieza-a-trabajar-en-la-recuperacion-y-reconstruccion.aspx</a>
-<br>
-<a href="https://soundcloud.com/rosa-cristina-parra/como-ayudar-a-mocoa-1330-domingo-2-de-abril">Cómo ayudar a Mocoa</a>
-<br>
-<a href="http://es.presidencia.gov.co/noticia/170402-A-254-asciende-cifra-de-victimas-fatales-en-Mocoa">Balance del Puesto de Mando Unificado 13:30 Domingo 2 de abril (Presidencia de Colombia)</a>
-<a href=""http://es.presidencia.gov.co/Audios/3129_AlocucionPresidenteMocoa_20170402.mp3>Alocución presidencial</a>
+<ul>
 
+	<h2>Otros enlaces de interés:</h2>
+	<br>
+<li><a href="http://portal.gestiondelriesgo.gov.co/Paginas/Noticias/2017/Atencion-en-Mocoa-continua-y-desde-ya-se-empieza-a-trabajar-en-la-recuperacion-y-reconstruccion.aspx">http://portal.gestiondelriesgo.gov.co/Paginas/Noticias/2017/Atencion-en-Mocoa-continua-y-desde-ya-se-empieza-a-trabajar-en-la-recuperacion-y-reconstruccion.aspx</a></li>
+<br>
+<li><a href="https://soundcloud.com/rosa-cristina-parra/como-ayudar-a-mocoa-1330-domingo-2-de-abril">Cómo ayudar a Mocoa</a></li>
+<br>
+<li><a href="http://es.presidencia.gov.co/noticia/170402-A-254-asciende-cifra-de-victimas-fatales-en-Mocoa">Balance del Puesto de Mando Unificado 13:30 Domingo 2 de abril (Presidencia de Colombia)</a></li>
+<li><a href=""http://es.presidencia.gov.co/Audios/3129_AlocucionPresidenteMocoa_20170402.mp3>Alocución presidencial</a></li>
+</ul>
+
+<br>
 <h2>Solicitudes a la comunidad</h2>
 <p align="justify">La organización Caritas solicita: 
 <br>
@@ -62,7 +66,7 @@ Comunidad Open Street Map Colombia
 
 
 <br>
-<iframe width="50%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://tareas.openstreetmap.co/project/46"></iframe><br/><small><a href="http://tareas.openstreetmap.co/project/46">Ir a la tarea</a></small>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://tareas.openstreetmap.co/project/46"></iframe><br/><small><a href="http://tareas.openstreetmap.co/project/46">Ir a la tarea</a></small>
 <span class="caption text-muted">Activación de voluntarios para mapeo humanitario #TodosPorMocoa"</span>
 <br>
 
