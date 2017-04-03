@@ -52,7 +52,13 @@ Para los equipos locales sería importante contar con un mapa urbano (un *.jpg g
 <br>
 <ul>
 <h2>LLamado a la acción</h2>
-<li>Se necesita un minimo de USD $500 dolares para la logistica y el desplazamiento de dos integragrantes de la #UMH hasta lo zona y su estancia de aproximadamente 3 dias. Se pueden hacer consignaciones a la <strong>Cuenta de la Fundación OpenStreetMap Colombia Bancolombia Número 66770394261</strong> <a href="http://contenido.grupobancolombia.com/home/micrositios/demoSVP/transferencias.html">Ir a Bancolombia</a></li>
+<li>Se necesita un minimo de USD $500 dolares para la logistica y el desplazamiento de dos integragrantes de la #UMH hasta lo zona y su estancia de aproximadamente 3 dias. Se pueden hacer consignaciones a la <strong>Cuenta de la Fundación OpenStreetMap Colombia Bancolombia:</strong> 
+<br>
+Datos para donación de dinero que permita el traslado de la <a href="https://tupale.co/b182?registros=10">Unidad de Mapeo Humanitario</a>:
+<br>
+ <a href="http://contenido.grupobancolombia.com/home/micrositios/demoSVP/transferencias.html">Hacer una transferencia a la cuenta de ahorros Número 66770394261 de la Fundación OpenStreetMap Colombia (Número de identificación Tributaria 901002003-1</a>
+ <br> 
+ <img src="{{ site.baseurl }}/img/donar_icon_small.png">Para quienes deseen hacer donaciones desde otros países por favor ponerse en contacto con <a href="mailto:info@openstreetmap.co?subject='How do I make a donation?'&body=Question:; Name; Contact">info@openstreetmap.co</a>  </li>
 <li>Adquisición de Imagenes satelitales pre-y post desastre de la zona.</li>
 </ul>
 
