@@ -21,3 +21,6 @@ Todos los Rovers y Caminantes, estan cordialmente invitados a obtener su insigni
 <br>
 <img src="{{ site.baseurl }}/img/Tulcan.jpg" align="center"  alt="">
 <br>
+Albún fotográfico.
+<br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/72821863@N02/albums/72157679834930662" title="Scout Mappers"><img src="https://c1.staticflickr.com/4/3955/33764575642_7cc6f642b6.jpg" width="500" height="331" alt="Scout Mappers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
