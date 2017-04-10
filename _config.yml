@@ -1,7 +1,7 @@
 # Site settings
 title: OpenStreetMap Colombia
-intro: Riohacha y Maicao
-header-img: galeria/30-dscf5279_mapatonxguajira_rancheria_25474477765_o.jpg
+intro: Datos geográficos abiertos para el control de la Malaria 
+header-img: img/guapi.jpg
 email: info@openstreetmap.co
 description: "Bienvenidos al sitio de la OSM Colombia, creando mapas para emergencias."
 # button: '<br><br><a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>'
@@ -10,6 +10,7 @@ url: "http://blog.openstreetmap.co"
 twitter_username: OpenStreetMapCO
 github_username:  OpenStreetMapColombia
 facebook_username:  groups/98009745459
+telegram_username: osmco
 
 # Build settings
 markdown: kramdown
@@ -23,8 +24,9 @@ exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md", "
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
 #
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-71933255-1'
+#analytics :
+#  provider : google
+#  google :
+#      tracking_id : 'UA-71933255-1'
 
+timezone: America/Bogota

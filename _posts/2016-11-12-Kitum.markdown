@@ -1,0 +1,38 @@
+---
+layout:     post
+title:    "Openstreetmap, punta de lanza en la iniciativa KitUm."
+subtitle:   "Estoy aquí para tí"
+date:       2016-11-12 19:00:00
+author:     "Carlos Felipe Castillo"
+header-img: "img/KITUM.jpg"
+---
+<h1>Openstreetmap, punta de lanza en la iniciativa KitUm.</h1>
+<br>
+<p align="justify">
+La fundación Openstreetmap Colombia participó activamente en la iniciativa <a href="http://ciudadania.sosdisaster.org/">SOS Disaster</a>, presentada por <a href="http://www.openstreetmap.org/user/luishernando">Luis Hernando Aguilar</a> en marco del <a href="http://www.ciudadania20.org/3er-laboratorio-iberoamericano-de-innovacion-ciudadana-labicco/">3er Laboratorio de innovación ciudadana - Labicco</a> organizado por la Secretaría General Iberoamericana en Cartagena de Indias del 9 al 23 de Octubre de 2016, cuyo objetivo era promover la innovación ciudadana en Iberoamérica con el fin de fomentar la transformación social, la gobernanza democrática, y el desarrollo social, cultural y económico.
+<br>
+Como resultado del trabajo en el Labicco nace <a href="http://kitum.org/">KITUM</a>, que significa “Estoy aquí para tí” en lengua indígena Wounaan, Kitum es una plataforma destinada a recopilar y diseminar los conocimientos y las buenas prácticas de voluntarios digitales que han ayudado en la respuesta a grandes emergencias en todo el mundo, entre ellas las inundaciones en Colombia en 2010, los terremotos de Haití y Chile en 2010, la crisis de Libia, la respuesta del tifón Haiyan/Yolanda en Filipinas, la respuesta al brote de Ebola en África Occidental y el terremoto de Ecuador en 2016.
+<br>
+<img src="{{ site.baseurl }}/img/PresentacionOSM.jpg" align="center">
+<br>
+<img src="{{ site.baseurl }}/img/PresentacionOSM2.jpg" align="center">
+<br>
+En el desarrollo de las actividades del Labicco, queda evidenciada la necesidad de fortalecer los procesos de mapeo humanitario, como pilar fundamental para el apoyo de las acciones de los organismos humanitarios. Como prueba de campo se realizo el mapeo del sector <a href="http://osm.org/go/YNxyfRaV--">El Pozón, Cartagena</a>
+<br>
+<img src="{{ site.baseurl }}/img/info.jpg" align="center">
+<br>
+80 estudiantes de instituto Camilo Torres, utilizando mapas impresos desde <a href="http://fieldpapers.org/?locale=es">fieldpapers</a> identificarón y realizarón 185 cambios y se modificarón 58 datos que correspondian a una cancha de béisbol que ya no existe, en su lugar se construyo el barrio Villas de Alicante, este cambio fue identificado como el problema mas sentido por lo jóvenes del sector.
+<br>
+<img src="{{ site.baseurl }}/img/Estudiantes1.jpg" align="center">
+<br>
+<img src="{{ site.baseurl }}/img/Estudiantes2.jpg" align="center">
+<br>
+<img src="{{ site.baseurl }}/img/Estudiantes3.jpg" align="center">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71933255-1', 'auto');
+  ga('send', 'pageview');

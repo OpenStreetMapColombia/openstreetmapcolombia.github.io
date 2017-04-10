@@ -98,3 +98,14 @@ Encuentre aquí videos ilustrativos grabados en vivo durante uno de los talleres
  * [Video 1](https://youtu.be/U4UxdnXKFCI) taller de mapeo para Salgar Antioquia
  * [Video 2](https://youtu.be/USHRJGJM1Bg) taller de mapeo para Salgar Antioquia
  * [Video 3](https://youtu.be/fklfyKDPZuU) taller de mapeo para Salgar Antioquia
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71933255-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

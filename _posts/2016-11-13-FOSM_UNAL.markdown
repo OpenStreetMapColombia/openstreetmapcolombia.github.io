@@ -1,0 +1,15 @@
+---
+layout:     post
+title:    "FOSM_Co participa en el taller internacional de creación cartográfica"
+subtitle:   ""
+date:       2016-11-13 12:00:00
+author:     "Carlos Felipe Castillo"
+header-img: "img/ESTEPA.jpg"
+---
+<h1>FOSM_Co participa en el taller internacional de creación cartográfica.</h1>
+<br>
+<p align="justify">
+<br>
+Del 20 al 22 de Octubre de año 2016, se desarrollo en la instalaciones de la <a href="http://osm.org/go/YJ5jQAa7u?m=">hemeroteca de la Universidad Nacional de Colombia</a>, la participación de la Fundación Openstreetmap Colombia como ponente en el <a href="http://www.humanas.unal.edu.co/estepa/eventos-y-actividades/taller-de-creacion-cartografica/">Taller internacional de creación cartográfica</a> con la sesión de manejo y plataformas útiles en el mapeo participativo con la ponencia <a href="https://docs.google.com/presentation/d/1Y9HqhvhAexNcgn_TzGQHDT7AJrcwGUw4j7T1FHfp18g/edit?usp=sharing">generación de datos geográficos abiertos con openstreetmap</a>
+<br>
+<img src="{{ site.baseurl }}/img/PRESENTACION.jpg" align="center">
