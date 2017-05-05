@@ -10,7 +10,7 @@ header-img: "mocoa_avalancha.jpg"
 <br>
 La avenida torrencial y flujo de detritos acaecida el 31 de marzo y 01 de abril a causa del aumento del caudal de los ríos Mocoa, Sangoyaco y Mulato como sus afluentes en Mocoa, capital de Putumayo, ha sido de tal magnitud que se ha declarado una calamidad pública de carácter nacional en Colombia.
 <br>
-En vista de la evidente ayuda que se requería en Mocoa, se realiza la activación de la comunidad Openstreetmap Colombia para mapear de forma remota Mocoa a través de la tarea 46, que ha sido servido en la <a href="http://tareas.openstreetmap.co/project/46#task/33”>plataforma</a>, logrando en 48 horas el mapeo pre-desastre de Mocoa.
+En vista de la evidente ayuda que se requería en Mocoa, se realiza la activación de la comunidad Openstreetmap Colombia para mapear de forma remota Mocoa a través de la tarea 46, que ha sido servido en la <a href="http://tareas.openstreetmap.co/project/46#task/33">plataforma</a>, logrando en 48 horas el mapeo pre-desastre de Mocoa.
 <br>
 Gracias a las <a href="http://blog.openstreetmap.co/donations/">donaciones</a> realizadas por un sinnúmero de personas, la Fundación OpenStreetMap Colombia en cabeza de la <a href="https://umh.openstreetmap.co/e56">Unidad de Mapeo Humanitario(UMH)</a>  realizó de manera simultánea al mapeo pre-desastre, el desplazamiento hasta Mocoa a bordo del avión Hércules de la Fuerza Aérea Colombiana (FAC) dada la gestión del colectivo #BrigadaDigital, llegando el 5 de abril de 2017, llevando consigo la Unidad de Vuelo no Tripulada Drone Tarot680.
 <br>
