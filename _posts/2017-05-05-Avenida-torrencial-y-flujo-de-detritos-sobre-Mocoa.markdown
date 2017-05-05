@@ -4,7 +4,7 @@ title:      "Avenida torrencial y flujo de detritos sobre Mocoa"
 subtitle:   "La Unidad de Mapeo Humanitario ayudando a Mocoa"
 date:       2017-05-05 10:13:00
 author:     "Nohora Fernanda Castellanos Aguilar"
-header-img: "mocoa_avalancha.jpg"
+header-img: "img/mocoa_avalancha.jpg"
 ---
 <h1>Avenida torrencial y flujo de detritos sobre Mocoa</h1>
 <br>
