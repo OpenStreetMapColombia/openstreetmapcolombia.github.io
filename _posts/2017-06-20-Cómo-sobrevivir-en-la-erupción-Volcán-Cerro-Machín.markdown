@@ -15,13 +15,13 @@ En el desarrollo de la prevención de la situación de emergencia que puede lleg
 <br>
 La actividad se realizó en tres partes, la primera consistió en exponer las fases eruptivas del VCM (contando, entre otras cosas, la destrucción total a la que se ve sujeto Toche por la erupción de dicho volcán) a cargo de la Brigada de Emergencias de CORTOLIMA, seguida por la intervención de la Unidad de Mapeo Humanitario quien compartió la experiencia vivida en la <a href="https://es.wikipedia.org/wiki/Tragedia_de_Armero"> erupción del Volcán Nevado del Ruiz en el año 1985</a> y se proyectó un <a href="http://blog.openstreetmap.co/2017/03/27/Gestion-del-Riesgo-Volcanico/">modelo 3D</a> del casco urbano y la periferia de Toche.
 <br>
+<img src="{{ site.baseurl }}/img/UMHVCM.jpg" align="center"  alt="">
+<br>
 En este aparte es de resaltar el aporte de Don Ariel, habitante de Toche, que de manera espontánea comparte la decisión recién tomada de no construir su vivienda en la margen del Río Toche, dado el riesgo al que se expondría, luego de observar el modelo 3D proyectado.
 <br>
 La tercera y última parte, se desarrolla en conjunto, donde todos los asistentes nos planteamos el siguiente interrogante:
 <br>
 ¿Cómo voy a sobrevivir cuando el Volcán Cerro Machín haga erupción? 
-<br>
-<img src="{{ site.baseurl }}/img/UMHVCM.jpg" align="center"  alt="">
 <br>
 Esta pregunta se genera después de la discusión en la que se le hace ver a la comunidad que no son los entes gubernamentales, ni privados, quienes resolverán las acciones a seguir en el momento en que suceda una erupción, que deben ser ellos quienes autogestionen los pasos a seguir, eso sí: contando con la asesoría del caso.
 <br>
