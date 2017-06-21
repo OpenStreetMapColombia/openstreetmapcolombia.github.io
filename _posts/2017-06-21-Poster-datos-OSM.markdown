@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:    "Investigación contra resistencia a los antimicrobianos: Dimensiones sociales y biológicas"
+title:    "Malaria asintomática en el Pacífico Colombiano"
 subtitle:   "Resultados mapatón por Guapi"
 date:       2017-07-21 12:00:00
 author:     "Carlos Felipe Castillo"
 header-img: "img/poster1.jpg"
 ---
-<h1> Investigación contra resistencia a los antimicrobianos: Dimensiones sociales y biológicas </h1>
+<h1> Poster de investigación Malaria asintomática </h1>
 <br>
 
 <p align="justify">
