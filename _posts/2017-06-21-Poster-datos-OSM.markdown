@@ -6,11 +6,9 @@ date:       2017-06-21 12:00:00
 author:     "Carlos Felipe Castillo"
 header-img: "img/poster1.jpg"
 ---
-<h1> Poster de investigación Malaria asintomática </h1>
+<h1> Se publica poster de investigación en Malaria asintomática con datos OSM</h1>
 <br>
-
 <p align="justify">
-
 El pasado 6 de Junio en el Departamento de Medicina Veterinaria de la Universidad de Cambridge, Inglaterra, se publicó un poster como resultado de las acciones adelantadas en el proyecto "Herramientas, formación y redes encaminadas a disminuir la carga por malaria en Colombia" en el cual se utilizó una imagen de OpenStreetMap para la ubicación geográfica de los casos positivos de malaria, diagnosticados por microscopia y submicroscópicos dentro del estudio en el barrio Santa Mónica de Guapi, Cauca, Colombia.
 <br>
 <img src="{{ site.baseurl }}/img/universidad.jpg" align="center"  alt="">
