@@ -11,7 +11,7 @@ header-img: "img/poster1.jpg"
 
 <p align="justify">
 
-El pasado 6 de Julio en el Departamento de Medicina Veterinaria de la Universidad de Cambridge, Inglaterra, se publicó un poster como resultado de las acciones adelantadas en el proyecto "Herramientas, formación y redes encaminadas a disminuir la carga por malaria en Colombia" en el cual se utilizó una imagen de OpenStreetMap para la ubicación geográfica de los casos diagnosticados por microscopia y submicroscópicos.
+El pasado 6 de Junio en el Departamento de Medicina Veterinaria de la Universidad de Cambridge, Inglaterra, se publicó un poster como resultado de las acciones adelantadas en el proyecto "Herramientas, formación y redes encaminadas a disminuir la carga por malaria en Colombia" en el cual se utilizó una imagen de OpenStreetMap para la ubicación geográfica de los casos diagnosticados por microscopia y submicroscópicos.
 <br>
 <img src="{{ site.baseurl }}/img/universidad.jpg" align="center"  alt="">
 <br>
