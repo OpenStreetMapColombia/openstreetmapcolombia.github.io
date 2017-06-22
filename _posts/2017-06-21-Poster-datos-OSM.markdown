@@ -1,11 +1,9 @@
 ---
 layout:     post
-<h1 style="background-color:gray">
 title:    "Malaria asintomática en el Pacífico Colombiano"
 subtitle:   "Resultados #MapatónXGuapi"
 date:       2017-06-21 12:00:00
 author:     "Carlos Felipe Castillo"
-</h1>
 header-img: "img/poster1.jpg"
 ---
 <h1> Se publica poster de investigación en Malaria asintomática con datos OSM</h1>
