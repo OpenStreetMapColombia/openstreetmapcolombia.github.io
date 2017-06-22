@@ -2,7 +2,7 @@
 layout:     post
 title:    "Malaria asintomática en el Pacífico Colombiano"
 subtitle:   "Resultados mapatón por Guapi"
-date:       2017-07-21 12:00:00
+date:       2017-06-21 12:00:00
 author:     "Carlos Felipe Castillo"
 header-img: "img/poster1.jpg"
 ---
