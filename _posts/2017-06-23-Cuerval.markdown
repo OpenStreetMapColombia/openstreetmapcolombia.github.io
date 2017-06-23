@@ -1,0 +1,19 @@
+---
+layout:     post
+title:    "Primera localidad rural sobre las costas del océano pacífico Colombiano, mapeada al 100%"
+subtitle:   "Viviendas, vías, puentes y establecimientos"
+date:       2017-07-21 12:00:00
+author:     "Carlos Felipe Castillo"
+header-img: "img/casacuerval.jpg"
+---
+<h1> Primera localidad rural sobre la costa del océano pacífico Colombiano, mapeada al 100%</h1>
+<br>
+<p align="justify">
+Como un trabajo adicional de las acciones realizadas en el proyecto "Herramientas, formación y redes encaminadas a disminuir la carga por malaria en Colombia" se realizó la georeferenciación de los casos positivos para malaria diagnosticados por microscopia y submicroscopia de la vereda Cuerval en Timbiquí, Cauca y se optimiza la visita para realizar una generación de datos geográficos, aprovechando la imagen disponible de Bing. Se logra confirmar la información con un levantamiento a nivel de calle utilizando mapillary para obtener los datos necesarios para lograr generar toda la información y mapear el 100% la localidad.
+<br>
+Los datos geográficos se generan para el proyecto liderado por la <a href="http://saludcauca.gov.co/">Secretaria de Salud del Cauca</a> en convenio con la <a href="http://unal.edu.co/">Universidad Nacional de Colombia</a>, <a href="http://www.sanger.ac.uk/">Wellcome Trust Sanger Institute</a> y el <a href="https://www.britishcouncil.org/">Concejo Britanico</a> en el Municipio de Guapi, en el año 2016.
+<br>
+<iframe width="640" height="320" src="https://embed-v1.mapillary.com/embed?version=1&filter=%5B%22all%22%5D&map_filter=%5B%22all%22%5D&image_key=cbbn4R87Q_CYRpMBaHNVrA&x=0.5000000020756392&y=0.500000001512472&client_id=VkVobklZOThHWHVIWXhhRG9paTN4dzplY2U3ZWJkM2E5MzMyZWM1&style=split" frameborder="0"></iframe>
+<br>
+<img src="{{ site.baseurl }}/img/casacuerval.jpg" align="center"  alt="">
+<br>
