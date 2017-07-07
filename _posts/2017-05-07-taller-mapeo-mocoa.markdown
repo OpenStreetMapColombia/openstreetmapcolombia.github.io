@@ -16,7 +16,8 @@ Dando continuidad al trabajo de la Unidad de Mapeo Humanitario (UHM) en los prim
 <br>
 <strong>Taller 1. SIG Putumayo</strong>
 <p align="justify">
-Se desarrollaron en total dos talleres, el primero el día 25 de abril de 2017 entre 5:00pm y 7:00 pm en las instalaciones del <a href="http://osm.org/go/YINurIJUj?m= target="_blank">SIG Putumayo</a>, donde participaron 15 personas cuyas labores están relacionadas directamente con el manejo de SIG y el trabajo de movilización e información a nivel comunitario, entre ellos, Corpoamazonia, Oficinas de participación comunitaria y  planeación de la Alcaldía de Mocoa, líderes y lideresas de la Asociación de Juntas de Acción Comunal del municipio y representantes de la JAC del barrio El Progreso.
+Se desarrollaron en total dos talleres, el primero el día 25 de abril de 2017 entre 5:00pm y 7:00 pm en las instalaciones del 
+<a href="http://osm.org/go/YINurIJUj?m">SIG Putumayo</a>, donde participaron 15 personas cuyas labores están relacionadas directamente con el manejo de SIG y el trabajo de movilización e información a nivel comunitario, entre ellos, Corpoamazonia, Oficinas de participación comunitaria y  planeación de la Alcaldía de Mocoa, líderes y lideresas de la Asociación de Juntas de Acción Comunal del municipio y representantes de la JAC del barrio El Progreso.
 
 El taller tuvo como objetivo conocer las necesidades de información y comunicación que presentan los participantes en la nueva etapa de reconstrucción despues del evento y brindar algunas herramientas prácticas que puedan ser de utilidad para responder a dichas necesidades.
 <br>
@@ -25,7 +26,7 @@ Así el taller inicio con una conversación alrededor de preguntas definidas pre
 A través del uso de celulares se hace el ejercicio de compartir la ubicación geográfica actual del usuario haciendo uso del GPS del dispositivo móvil celular y la opción de compartir ubicación de la aplicación Whatsapp. De esta manera se pudo intercambiar reportes entre los asistentes que incluian la ubicación del emisor.
 </p>
 <br>
-</p>
+
 <img src="{{ site.baseurl }}/img/whatsapp_ubicacion.png" align="center"  alt="">
 <br>
 <p align="justify">
@@ -49,7 +50,7 @@ Se entregó el mapa impreso en plotter del estado pre desastre de Mocoa elaborad
 <br>
 <strong>Taller 2. Recorrido y taller en la vereda San Antonio</strong>
 <p align="justify">
-<iframe width="400px" height="300px" frameBorder="0" src="https://umap.openstreetmap.co/es/map/recorridos-mocoa-2017-04_991?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined"></iframe><p><a href="https://umap.openstreetmap.co/es/map/recorridos-mocoa-2017-04_991">See full screen</a></p> 
+<iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.co/es/map/recorridos-mocoa-2017-04_991?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined"></iframe><p><a href="https://umap.openstreetmap.co/es/map/recorridos-mocoa-2017-04_991">See full screen</a>
 Recorridos en campo y toma de fotografías con Mapillary en la zona urbana y rural de Mocoa
 <br>
 El día 26 de abril entre las 7am y la 1pm se llevó a cabo el recorrido hasta la vereda San Antonio, la conocida en el contexto de la emergencia como la zona cero, el primer centro poblado en el área rural de Mocoa que fue impactado por la avenida torrencial y flujo de detritos que afectó a este municipio. El taller fue posible gracias a la gestión de Jhon Jairo Rodríguez del Colectivo Alas, de avistadores de aves de Mocoa, quienes en calidad de voluntarios en atención a la emergencia estuvieron acompañando y entregando algunas ayudas recibidas a esta comunidad.  La actividad donde también se  contó con la participación de Andres Mendoza del SIG Putumayo tuvo como preámbulo una visita a los miembros de la JAC del barrio Los Pinos, donde su presidente y un asociado pudieron compartir el ejercicio que han venido realizando con el levantamiento del censo del barrio y el mapa con la ubicación de las viviendas, dicho mapa elaborado a mano fue digitalizado usando la aplicacióno Autocad, herramienta que domina el señor Rodolfo Jurado, quien se encuentra adelantando estudios técnicos en diseño gráfico. Posteriormente se facilitó el enlace entre la JAC y el SIG Putumayo con el fin de apoyar técnicamente y se socializó la experiencia de la FOSM con la georreferenciación de censos poblacionales.
