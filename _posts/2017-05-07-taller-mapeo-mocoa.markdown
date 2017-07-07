@@ -6,7 +6,7 @@ date:       2017-05-07 12:00:00
 author:     "Luis Miguel Sánchez Zoque"
 header-img: "img/taller-mocoa.jpg"
 ---
-<h1> Investigación contra resistencia a los antimicrobianos: Dimensiones sociales y biológicas </h1>
+<h1> Talleres de mapeo humanitario en Mocoa, Putumayo </h1>
 <br>
 
 <p align="justify">
