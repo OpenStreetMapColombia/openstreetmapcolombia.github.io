@@ -55,3 +55,4 @@ Para el 2024, la [comunidad propone](https://t.me/osmco/1/20600):
 * Hacer un OpenBeer en Bogotá entre comunidades del mundo libre ( @linaporras ), con personas de Wikipedia, Gluds, Linux, Ubuntu, etc., y obviamente con nosotros.
 * Revisar los trazados de los ríos de Caldas y arreglar los límites políticos de departamento y los municipios de Caldas (@afgb1977).
 * Seguir dándole la bienvenida a nuevos mapeadores en [Welcome tool](https://welcome.osm.be/)
+* Reactivar esta página, publicando contenido más frecuentemente.
