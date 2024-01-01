@@ -29,9 +29,14 @@ author:     "Andrés Gómez Casanova"
 * Se hizo una [biciruta](https://www.meetup.com/maptime-bogota-colombia-osm/events/295827685/) con @linaporras 
 * [TomTom patrocinó un mapeo en Medellín](https://www.facebook.com/groups/98009745459/posts/10160958289935460), donde varios participantes ganaron premios.
 * La [guía de mapeo de Colombia](https://wiki.openstreetmap.org/wiki/ES:Colombia/Gu%C3%ADa_para_mapear) cada vez se mejora y enfoca a nuestro territorio.
-* Se mapeó la [ciclovía de Medellín](https://wiki.openstreetmap.org/wiki/ES:Colombia/Proyecto-Ciclov%C3%ADas/Medell%C3%ADn), por medio de varios talleres hechos por Kaart.
+* Se mapeó la [ciclovía de Medellín](https://wiki.openstreetmap.org/wiki/ES:Colombia/Proyecto-Ciclov%C3%ADas/Medell%C3%ADn), por medio de varios talleres hechos por Kaart, con los capítulos de YouthMappers SAGEMA y GeoLab.
 * Los [DuitamaMappingStars](https://www.instagram.com/duitamamappingstars/) han contribuido con el mapeo de rutas de transporte de varios lugares, entre esos Bogotá.
-* HOT ha realizado varios talleres de mapeo en Medellín.
+* HOT ha realizado varios talleres de mapeo en Medellín, uno de ellos con Unaula.
+* SAGEMA realizó varias capacitaciones abiertas al publico en colaboración con algunos miembros de la comunidad OSM Colombia entre las que estuvieron:
+  * Calidad de datos abiertos y taller de Umaps junto con @JuanCarlosMeloLuna.
+  * Resolución de Notas como evento del GISDay y taller de wiki para OSM junto con @AngocA.
+  * Taller de Kobocollect con Johan Sebastian de GeoLab.
+* SAGEMA también hizo mapathon de los campus de la sede Medellín de la Universidad Nacional de Colombia, y empezamos la Mapathon del museo vivo arboretum y palmetum de los campus.
 * Los capítulos de youthMappers han realizado varios eventos, entre ellos varios cafesitos.
 
 # Las 12 uvas y estas actividades para el 2024
@@ -59,3 +64,4 @@ Para el 2024, la [comunidad propone](https://t.me/osmco/1/20600):
 * Publicar secciones dedicadas a las notas en [LearnOSM](https://learnosm.org/es/) con @paowelt.
 * Terminar la página de [perfil de Notas de OSM](https://github.com/OSMLatam/OSM-Notes-profile).
 * Reactivar esta página, publicando contenido más frecuentemente.
+* SAGEMA espera tener las guias metodologícas de las dos mapathones para el próximo año, para que la comunidad las empiece a replicar en otras universidades. El proyecto de arbolado urbano contará con una serie de capacitaciones en las que trabajaremos en el 2024 y estarán certificadas por TomTom y YouthMappers. Estaremos compartiendo por este medio la información para quienes se animen a participar.
