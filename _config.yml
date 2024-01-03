@@ -1,7 +1,8 @@
 # Site settings
 title: Comunidad OpenStreetMap Colombia
-intro: Noticias sobre las actividades de la comunidad OSM colombia
+intro: Noticias sobre las actividades de la Comunidad OSM Colombia
 header-img: img/guapi.jpg
+# TODO Este mail ya no funciona
 email: info@openstreetmap.co
 description: "Bienvenidos al blog de la Comunidad OSM Colombia"
 # button: '<br><br><a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>'
