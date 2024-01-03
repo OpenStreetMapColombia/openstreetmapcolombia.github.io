@@ -31,7 +31,7 @@ author:     "Andrés Gómez Casanova"
 * La [guía de mapeo de Colombia](https://wiki.openstreetmap.org/wiki/ES:Colombia/Gu%C3%ADa_para_mapear) cada vez se mejora y enfoca a nuestro territorio.
 * Se mapeó la [ciclovía de Medellín](https://wiki.openstreetmap.org/wiki/ES:Colombia/Proyecto-Ciclov%C3%ADas/Medell%C3%ADn), por medio de varios talleres hechos por Kaart, con los capítulos de YouthMappers SAGEMA y GeoLab.
 * Los [DuitamaMappingStars](https://www.instagram.com/duitamamappingstars/) han contribuido con el mapeo de rutas de transporte de varios lugares, entre esos Bogotá.
-* HOT ha realizado varios talleres de mapeo en Medellín, uno de ellos con Unaula.
+* El Hub de Mapeo Abierto de HOT ha realizado varios talleres de mapeo en Medellín, principalmente un [Curso Taller de Territorios](https://pomotecestudios.unaula.edu.co/mapeo-poblaciones/?playlist=1bc23e4&video=f75d726) de varias sesiones con el Centro de Estudios POMOTE de la Unaula.
 * SAGEMA realizó varias capacitaciones abiertas al publico en colaboración con algunos miembros de la comunidad OSM Colombia entre las que estuvieron:
   * Calidad de datos abiertos y taller de Umaps junto con @JuanCarlosMeloLuna.
   * Resolución de Notas como evento del GISDay y taller de wiki para OSM junto con @AngocA.
