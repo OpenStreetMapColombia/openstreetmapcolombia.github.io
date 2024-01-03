@@ -2,22 +2,22 @@
 
 ## Uso diario
 
-Para añadir un nuevo post de entrada, en el directorio `_posts` coloque
-su archivo, por favor asegure que la fecha esté colocada cronológicamente
+Para añadir un nuevo post de entrada, en el directorio `_posts` coloca
+tu archivo. Asegurate de que la fecha siga cronología
 de forma que quede organizado adecuadamente.
 
-Le invitamos a que consulte las entradas previas para aprender trucos y
-hacer su entrada nueva lo más perfecta posible.
+Te invitamos a que consultes las entradas previas para aprender trucos y
+hacer tu entrada nueva lo más mejor posible.
 
-Para visualizar la edición de sus documentos puede ver
+Para visualizar la edición de tus documentos puedes ejecutar
 
 ```
 jekyll serve
 ```
 
-Puede usar html al interior de cada uno de los artículos, también
-puede emplear el [formato markdown](http://daringfireball.net/projects/markdown/syntax),
-con este tenderá a tener más limpios los escritos que haga.
+Puedes usar html al interior de cada uno de los artículos, también
+puedes emplear el [formato markdown](http://daringfireball.net/projects/markdown/syntax),
+con este se podrán tener más limpios los escritos que hagas.
 
 ## Para instalar
 
@@ -29,20 +29,20 @@ bundle install
 
 ## Estilo y CSS
 
-Si usted queire contribuir con el estilo del sitio va a usar grunt, primero
-debe contar con npm instalado, por ejemplo
+Si quieres contribuir con el estilo del sitio vas a usar grunt, primero
+debes contar con npm instalado, por ejemplo
 
 ```
 apt-get install npm
 ```
 
-en el directorio raíz de este proyecto aplicará
+en el directorio raíz de este proyecto aplicarás
 
 ```
 npm install
 ```
 
-Y para ver los resultados de los archivos de estilo less, puede usar grunt
+Y para ver los resultados de los archivos de estilo less, puedes usar grunt
 para que los compile automáticamente con
 
 ```
