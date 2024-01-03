@@ -1,12 +1,10 @@
 # Site settings
-title: OpenStreetMap Colombia
-intro: Datos geográficos abiertos para el control de la Malaria 
+title: Comunidad OpenStreetMap Colombia
+intro: Noticias sobre las actividades de la comunidad OSM colombia
 header-img: img/guapi.jpg
 email: info@openstreetmap.co
-description: "Bienvenidos al sitio de la OSM Colombia, creando mapas para emergencias."
+description: "Bienvenidos al blog de la Comunidad OSM Colombia"
 # button: '<br><br><a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>'
-baseurl: ""
-url: "http://blog.openstreetmap.co"
 twitter_username: OpenStreetMapCO
 github_username:  OpenStreetMapColombia
 facebook_username:  groups/98009745459
