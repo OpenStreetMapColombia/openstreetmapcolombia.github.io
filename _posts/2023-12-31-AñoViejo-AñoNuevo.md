@@ -44,20 +44,28 @@ author:     "Andrés Gómez Casanova"
 Para el 2024, la [comunidad propone](https://t.me/osmco/1/20600):
 
 * Participar en el [opendataday.org](OpenDataDay) en varias ciudades, por ejemplo, respondiendo en [StreetComplete](https://f-droid.org/packages/de.westnordost.streetcomplete.expert/).
+  * Se está organizando un mapeo de árboles.
 * Participar en más ciudades en paralelo en el [flisol](https://flisol.info/FLISOL2023/Colombia). Aprovechar que @risturiz quiere apoyar.
+  * Se va a organizar el OpenBeer el 23 de febrero para apoyar y conseguir voluntarios.
 * Seguir haciendo talleres de OSM y promocionar tanto el uso como la contribución en OSM. Ya tenemos [guías](https://teachosm.org/projects/), presentaciones, vídeos.
   * Muchos se promocionan en [MaptimeBogota](https://www.meetup.com/maptime-bogota-colombia-osm/)
 * Mantener la cantidad de [notas abiertas](https://resultmaps.neis-one.org/osm-notes-country?c=Colombia) cercano a cero, e invitar a nuevos contribuidores a que las resuelvan.
 * Hacer talleres y eventos virtuales periódicos, para fortalecer a la comunidad.
+  * En enero se mapearon restaurantes en Bogotá.
+  * SAGEMA ha hecho talleres relativos a OSM.
 * Inclusive, hacer un evento más formal, de conferencias.
 * Seguir haciendo las [cápsulas de mapeo](https://www.instagram.com/reel/C0YAdbrMrCs/), para explicar rápidamente conceptos puntuales en OSM.
 * Lanzar el [podcast](https://pad.osm.lat/s/wchOABdzi).
 * Promover el uso de OSM en las clases de la UNAD con Doris Carmiña.
 * Integrar más rutas por parte de la comunidad en la aplicación [Trufi](https://www.trufi-association.org/) (para eso debemos mapear nosotros mismos las rutas).
 * Usar más la plataforma de [osm.lat](osm.lat) que ofrece @risturiz
+  * El OpenBeer y OpenDataDay se apoyan en esta plataforma.
 * Hacer mapping parties, ya sea en el centro de Bogota - @angelalis09, en municipios cercanos.
+  * Ya se hizo un mapping party cerca del museo nacional.
 * Volver a hacer GeoBeers. De pronto en Medellín.
+  * Se organizó el OpenBeer, algo más genérico.
 * Hacer un OpenBeer en Bogotá entre comunidades del mundo libre ( @linaporras ), con personas de Wikipedia, Gluds, Linux, Ubuntu, etc., y obviamente con nosotros.
+  * En proceso de organizarlo.
 * Revisar los trazados de los ríos de Caldas y arreglar los límites políticos de departamento y los municipios de Caldas (@afgb1977).
 * Seguir dándole la bienvenida a nuevos mapeadores en [Welcome tool](https://welcome.osm.be/)
 * Formalizar la comunidad de OSM Colombia.
@@ -65,3 +73,5 @@ Para el 2024, la [comunidad propone](https://t.me/osmco/1/20600):
 * Terminar la página de [perfil de Notas de OSM](https://github.com/OSMLatam/OSM-Notes-profile).
 * Reactivar esta página, publicando contenido más frecuentemente.
 * SAGEMA espera tener las guias metodologícas de las dos mapathones para el próximo año, para que la comunidad las empiece a replicar en otras universidades. El proyecto de arbolado urbano contará con una serie de capacitaciones en las que trabajaremos en el 2024 y estarán certificadas por TomTom y YouthMappers. Estaremos compartiendo por este medio la información para quienes se animen a participar.
+  * Ya tienen un ciclo de conferencias, con TomTom.
+* Celebrar el cumpleaños número 20 de OpenStreetMap en Agosto 9 - https://community.openstreetmap.org/t/how-should-we-celebrate-osms-20th-birthday/108542
